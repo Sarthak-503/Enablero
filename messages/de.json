@@ -1,0 +1,286 @@
+{
+  "LINKS": {
+    "SERVICES": "Dienstleistungen",
+    "CASE_STUDIES": "Fallstudien",
+    "ABOUT_US": "Über uns",
+    "CONTACT_US": "Kontaktieren Sie uns",
+    "TERMS_AND_CONDITIONS": "Geschäftsbedingungen",
+    "PRIVACY_POLICY": "Datenschutzbestimmungen",
+    "SITEMAP": "Seitenverzeichnis"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "Loslegen",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "Mehr erfahren",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "Haben Sie eine Idee?",
+    "NAVBAR_ENABLERO_TEXT": "ENABLERO"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "Englisch",
+    "HINDI": "Hindi",
+    "JAPANESE": "Japanisch",
+    "GERMAN": "Deutsch",
+    "RUSSIAN": "Russisch",
+    "ARABIC": "Arabisch"
+  },
+
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "STÄRKEN SIE IHREN ERFOLG MIT UNSERER EXPERTISE",
+      "HERO_SECTION_SUBTITLE": "Entfesseln Sie endloses Potenzial durch unsere unvergleichlichen Lösungen"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "UNSERE DIENSTLEISTUNGEN",
+      "SECTION_SUBTITLE": "Erschließen Sie Ihr Geschäftspotenzial mit unserem umfassenden Angebot an Expertendiensten."
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "ÜBER UNS",
+      "SECTION_SUBTITLE": "Bei Enablero setzen wir auf den Aufbau starker Beziehungen zu unseren Kunden. Unsere Kontaktseite ist darauf ausgelegt, Ihnen einen unkomplizierten Weg zu bieten, um mit unserem engagierten Team in Kontakt zu treten. Egal, ob Sie Fragen zu unseren Dienstleistungen haben, eine maßgeschneiderte Lösung benötigen oder ein Projekt besprechen möchten - wir sind hier, um zuzuhören und Ihnen zu helfen. Nehmen Sie noch heute Kontakt mit uns auf und lassen Sie uns gemeinsam auf eine Reise gehen, um Ihr Unternehmen zu stärken."
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "Kunden-Highlights",
+      "SECTION_SUBTITLE": "Unsere Kunden schwärmen von uns! Lesen Sie ihre glühenden Bewertungen und erfahren Sie, warum sie unseren Service lieben",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "Wais Mojaddidi",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "LEITER DER AGILE-LIEFERUNG, GLOBALER E-COMMERCE",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "„Durch die Nutzung von Jira und Confluence für automatisierte Berichterstellung sparen wir über 800 Stunden und 500.000 USD pro Jahr an Beratungskosten, die zuvor für manuelle Berichterstattung aufgewendet wurden.“",
+      "TESTIMONIAL_JOHN_DOE_NAME": "John Doe",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "GESCHÄFTSFÜHRER, TECH-INNOVATOREN",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "„Die Implementierung neuer Technologien hat unsere Operationen revolutioniert und zu einer Steigerung der Effizienz und Kostenersparnis geführt.“",
+      "TESTIMONIAL_JANE_SMITH_NAME": "Jane Smith",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "CFO, BUSINESS SOLUTIONS",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "„Unsere Zusammenarbeit hat zu erheblichen Verbesserungen in unserem Finanzmanagement und unserer strategischen Planung geführt.“"
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "STÄRKEN SIE IHREN ERFOLG MIT UNSERER EXPERTISE",
+      "HERO_SECTION_SUBTITLE": "Erfahren Sie, wie unser Expertenteam Ihnen helfen kann, Herausforderungen zu bewältigen und neue Chancen für Wachstum und Effizienz zu erschließen"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "WAS WIR TUN",
+      "SECTION_SUBTITLE": "Haben Sie keine Angst, das Gute aufzugeben, um das Große zu erreichen",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "Schlüsselfunktion",
+
+        "SERVICE_AGILE_TITLE": "Agile",
+        "SERVICE_AGILE_DESCRIPTION": "Beschleunigen Sie Ihre Projekte mit agilen Methoden für effiziente und anpassungsfähige Entwicklung",
+        "SERVICE_AGILE_KEY_FEATURE_1": "Iterative Entwicklung",
+        "SERVICE_AGILE_KEY_FEATURE_2": "Kontinuierliches Feedback",
+        "SERVICE_AGILE_KEY_FEATURE_3": "Cross-funktionale Teams",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "KI-Innovationen",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "Nutzen Sie die Kraft der künstlichen Intelligenz, um Innovationen voranzutreiben und handlungsorientierte Erkenntnisse aus Ihren Daten zu gewinnen",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "Integration von maschinellem Lernen",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "Vorhersageanalyse",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "Natürliche Sprachverarbeitung",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "API-Management",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "Optimieren Sie Ihre Geschäftsprozesse und verbessern Sie die Konnektivität mit umfassenden API-Management-Lösungen",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "API-Gateway-Einrichtung",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "API-Lebenszyklusmanagement",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "Sichere API-Integration",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "Anwendungs­entwicklung & -management",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "Entwickeln und verwalten Sie maßgeschneiderte Anwendungen, die perfekt auf Ihre Geschäftsbedürfnisse und -ziele abgestimmt sind",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "Native App-Entwicklung",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "Plattformübergreifende Lösungen",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "App-Store-Bereitstellung",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "Cloud-Lösungen",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "Nutzen Sie die Skalierbarkeit und Flexibilität des Cloud-Computings, um Ihre Operationen zu optimieren und das Wachstum voranzutreiben",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "Skalierbare Infrastruktur",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "Cloud-Migration",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "Verwaltete Cloud-Services",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "Daten­einblicke",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "Gewinnen Sie wertvolle Erkenntnisse aus Ihren Daten und treffen Sie fundierte Entscheidungen, um Ihr Unternehmen voranzubringen",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "Datenvisualisierung",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "Erweiterte Analytik",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "Business Intelligence",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "Kreative Designs",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "Verwandeln Sie Ihre Ideen in visuell fesselnde Erlebnisse mit unseren innovativen Designlösungen",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "UI/UX-Design",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "Markenidentität",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "Grafikdesign",
+
+        "SERVICE_DEVOPS_TITLE": "DevOps",
+        "SERVICE_DEVOPS_DESCRIPTION": "Überbrücken Sie die Kluft zwischen Entwicklung und Betrieb mit unseren DevOps-Strategien, um Software schneller und zuverlässiger bereitzustellen",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "Kontinuierliche Integration",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "Automatisierte Bereitstellung",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "Infrastruktur als Code",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "Transformative Lösungen",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "Nutzen Sie digitale Technologien und gestalten Sie Ihr Unternehmen für das digitale Zeitalter um, um einen Wettbewerbsvorteil zu erlangen",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "Digitale Transformation",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "Prozessautomatisierung",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "Technologieberatung",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "Strategische Beratung",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "Fördern Sie den organisatorischen Erfolg mit unserer Expertenberatung zur Ausrichtung von Geschäftszielen und IT-Strategien",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "Unternehmensstrategie",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "Marktanalyse",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "Organisationsentwicklung",
+
+        "SERVICE_SECURITY_TITLE": "Sicherheit",
+        "SERVICE_SECURITY_DESCRIPTION": "Schützen Sie Ihre wertvollen Assets und sichern Sie sich gegen Cyberbedrohungen mit unseren umfassenden Sicherheitsdiensten ab",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "Risikobewertung",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "Bedrohungsüberwachung",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "Incident Response",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "Webentwicklung & -management",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "Erstellen und verwalten Sie robuste Webanwendungen, die Benutzer ansprechen und außergewöhnliche Online-Erlebnisse bieten",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "Responsive Design",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "SEO-Optimierung",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "Performance-Optimierung"
+      }
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "Bereit, Lösungen zu besprechen? Kontaktieren Sie Enablero",
+      "HERO_SECTION_SUBTITLE": "Verbindung von Träumen zur Realität, eine Nachricht nach der anderen"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "LASSEN SIE UNS ZUSAMMENARBEITEN",
+      "SUB_HEADING": "Treten Sie mit Enablero in Kontakt",
+      "DIVIDER_TEXT": "WIR WÜRDEN GERNE VON IHNEN HÖREN",
+      "FORM_SECTION": {
+        "TITLE": "Kontaktformular",
+        "DESCRIPTION": "Bitte füllen Sie das unten stehende Formular aus, und wir werden uns so schnell wie möglich bei Ihnen melden.",
+        "SUBMIT_BUTTON": "Absenden",
+        "NEXT_BUTTON": "Weiter",
+        "PREVIOUS_BUTTON": "Zurück"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "Kontaktieren Sie uns",
+        "CONTACT_DESCRIPTION": "Wir würden gerne von Ihnen hören. Unser freundliches Team steht Ihnen jederzeit zur Verfügung, um mit Ihnen zu sprechen.",
+        "CHAT_TO_US": {
+          "HEADING": "Chatten Sie mit uns",
+          "DESCRIPTION": "Unser freundliches Team ist hier, um Ihnen zu helfen",
+          "EMAIL": "anfrage@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "Büro",
+          "DESCRIPTION": "Kommen Sie vorbei und sagen Sie Hallo in unserem Büro-Hauptquartier.",
+          "ADDRESS": "Sector 28, Gurugram, Haryana, 122001"
+        }
+      }
+    }
+  },
+
+  "AboutPage": {
+    "HeroSection": {
+      "SectionHead": "WO INNOVATION AUF LEIDENSCHAFT TRIFFT",
+      "SectionPara": "Von der Vision zur Realität: Enableros Geschichte, Kunden mit innovativen Lösungen zu stärken und sich der Exzellenz zu verpflichten"
+    },
+    "MainContent": {
+      "MainHeading": "WER WIR SIND",
+      "SubHeading": "Als starker Partner zur Beschleunigung Ihrer Innovation helfen wir Unternehmen, die Wertbereitstellung zu maximieren und die Nachhaltigkeit mit Software-Engineering-Dienstleistungen für Supply Chain, Gesundheitswesen, FinTech, IoT und andere Bereiche zu gewährleisten. Wir entwerfen und liefern nicht nur hochwertige, stabile, skalierbare und funktionale digitale Produkte, sondern teilen auch das wertvolle und umfangreiche Wissen unserer talentierten Entwickler.",
+      "GridSection": {
+        "0": {
+          "Heading": "35+",
+          "Description": "Kunden mit aktiven Projekten"
+        },
+        "1": {
+          "Heading": "30%",
+          "Description": "der Kunden kommen über eine Partnerempfehlung zu Enablero."
+        },
+        "2": {
+          "Heading": "10+",
+          "Description": "Partner, die seit über 7 Jahren mit Enablero zusammenarbeiten"
+        },
+        "3": {
+          "Heading": "74%",
+          "Description": "jährliches Unternehmenswachstum"
+        }
+      },
+      "MissionSection": {
+        "Heading": "UNSERE MISSION",
+        "SubHeading": "Zusammen erreicht jeder mehr",
+        "Description": "Unsere Mission ist es, maßgeschneiderte Technologielösungen zu liefern, die es unseren Kunden ermöglichen, Herausforderungen zu bewältigen, neue Chancen zu erschließen und ihre Ziele zu erreichen. Wir sind bestrebt, außergewöhnlichen Service zu bieten, Innovationen zu fördern und Einzelpersonen und Unternehmen zu befähigen, in einer sich ständig verändernden Landschaft erfolgreich zu sein."
+      },
+      "ValueSection": {
+        "Heading": "UNSERE WERTE",
+        "Description": "Enablero ist eine perfekte Kombination aus Empathie, großer Technologie, einer innovativen Unternehmenskultur und klugen Menschen.",
+        "AllValues": [
+          {
+            "title": "Befähigung",
+            "description": "Ermächtigung von Einzelpersonen und Unternehmen, ihr Potenzial freizusetzen und ihre Ziele durch Technologielösungen zu erreichen.",
+            "icon": "AccessibilityNewIcon"
+          },
+          {
+            "title": "Wendigkeit",
+            "description": "Annehmen von Agilität und Anpassungsfähigkeit, um schnell auf Veränderungen und Herausforderungen in der schnelllebigen Tech-Landschaft zu reagieren.",
+            "icon": "DirectionsRunIcon"
+          },
+          {
+            "title": "Verantwortlichkeit",
+            "description": "Übernahme unserer Handlungen, Verpflichtungen und Ergebnisse und Verantwortung für die Einhaltung unserer Versprechen.",
+            "icon": "VerifiedUserIcon"
+          },
+          {
+            "title": "Kühnheit",
+            "description": "Wir begrüßen kühne Ideen, gehen berechnete Risiken ein und erweitern die Grenzen der Innovation, um transformative Lösungen zu schaffen.",
+            "icon": "WhatshotIcon"
+          },
+          {
+            "title": "Lernen",
+            "description": "Förderung einer kontinuierlichen Lernmentalität, um an der Spitze der technologischen Entwicklungen zu bleiben und cutting-edge Lösungen zu liefern.",
+            "icon": "SchoolIcon"
+          },
+          {
+            "title": "Empathie",
+            "description": "Demonstration von Empathie und Verständnis gegenüber Kunden und Kollegen, Gewährleistung, dass ihre Bedürfnisse und Anliegen gehört und adressiert werden.",
+            "icon": "FavoriteIcon"
+          }
+        ]
+      }
+    }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "WO KREATIVITÄT AUF ERGEBNISSE TRIFFT",
+      "HERO_SECTION_SUBTITLE": "Erkunden Sie eine kuratierte Auswahl unserer Projekte, die unsere Verpflichtung zur Exzellenz und innovativen Lösungen in verschiedenen Branchen unterstreichen"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "ALLE",
+          "TAG_ANDROID": "ANDROID",
+          "TAG_AI": "KI",
+          "TAG_WEB": "NETZ",
+          "TAG_IOS": "IOS"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "Studentenberatungsportal",
+          "TAG_ALL": "ALLE",
+          "TAG_ANDROID": "ANDROID",
+          "TAG_AI": "KI",
+          "TAG_WEB": "NETZ",
+          "TAG_IOS": "IOS",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "Dieses Portal unterstützt Schüler bei der Bildungs- und Karriereberatung.",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "Lehrerberatungsportal",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "Dieses Portal unterstützt Lehrer in ihrer pädagogischen und administrativen Rolle.",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "Direktorenberatungsportal",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "Dieses Portal unterstützt Schulleiter bei der Schulverwaltung und -leitung."
+        }
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "Entfesseln Sie Ihr Potenzial mit Enablero!",
+    "CALL_TO_ACTION_SUBTITLE": "Schließen Sie sich uns an, um Ihre Vision mit unseren Expertenlösungen in die Realität umzusetzen. Kontaktieren Sie uns noch heute!",
+    "CALL_TO_ACTION_BUTTON_TEXT": "LOSLEGEN"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "ENABLERO",
+    "COPYRIGHT_TEXT": "Enablero. Alle Rechte vorbehalten"
+  }
+}

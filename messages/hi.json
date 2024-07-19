@@ -1,0 +1,288 @@
+{
+  "LINKS": {
+    "SERVICES": "सेवाएं",
+    "CASE_STUDIES": "प्रकरण अध्ययन",
+    "ABOUT_US": "हमारे बारे में",
+    "CONTACT_US": "संपर्क करें",
+    "TERMS_AND_CONDITIONS": "नियम और शर्तें",
+    "PRIVACY_POLICY": "गोपनीयता नीति",
+    "SITEMAP": "साइटमैप"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "आइए जुड़ें",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "अधिक जानें",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "क्या आपके पास कोई विचार है ?",
+    "NAVBAR_ENABLERO_TEXT": "एनेबलरो"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "अंग्रेज़ी",
+    "HINDI": "हिन्दी",
+    "JAPANESE": "जापानी",
+    "GERMAN": "जर्मन",
+    "RUSSIAN": "रूसी",
+    "ARABIC": "अरबी"
+  },
+
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "अपनी विशेषज्ञता से अपनी सफलता को सशक्त करना",
+      "HERO_SECTION_SUBTITLE": "हमारी अनगिनत समाधानों द्वारा असीमित संभावनाओं को खोलें"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "हमारी सेवाएं",
+      "SECTION_SUBTITLE": "हमारी विशेषज्ञ सेवाओं के व्यापक विकल्पों के साथ अपनी व्यापारिक संभावनाओं को खोलें।"
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "हमारे बारे में",
+      "SECTION_SUBTITLE": "एनाब्लेरो में, हमारा विश्वास है कि हम अपने ग्राहकों के साथ मजबूत संबंध बनाने में विशेषज्ञता रखते हैं। हमारा 'हमसे संपर्क करें' पृष्ठ आपको हमारी समर्पित टीम से संपर्क करने का एक सरल तरीका प्रदान करने के लिए डिज़ाइन किया गया है। चाहे आपके पास हमारी सेवाओं के बारे में सवाल हों, एक विशिष्ट समाधान की आवश्यकता हो, या किसी परियोजना पर चर्चा करनी हो, हम यहाँ हैं कि आपकी सुनें और आपकी मदद करें। आज ही हमसे संपर्क करें और हमारे साथ अपने व्यापार को सशक्त करने के लिए एक यात्रा पर प्रस्थान करें।"
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "ग्राहक मुख्य बिंदु",
+      "SECTION_SUBTITLE": "हमारे ग्राहक हमारी प्रशंसा करते हैं! उनकी चमकती समीक्षाएं पढ़ें और जानें क्यों उन्हें हमारी सेवा पसंद है।",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "वाइस मोजाद्दिदी",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "एजाइल वितरण के निदेशक, ग्लोबल ई-कॉमर्स",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "“Jira और Confluence का उपयोग करके स्वचालित रिपोर्टिंग के लिए हम $500k प्रति वर्ष और प्रबंधन परामर्श लागतों में 800 घंटे और बचाई हैं जो पहले मैन्युअल रिपोर्टिंग पर खर्च होती थी।”",
+      "TESTIMONIAL_JOHN_DOE_NAME": "जॉन डो",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "मुख्य कार्यकारी अधिकारी, तकनीकी नवाचारक",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "“नई प्रौद्योगिकियों के लागू होने से हमारे संचालन को क्रांतिकारी बनाया गया है, जिससे कार्यक्षमता में वृद्धि और लागत में बचत हुई है।”",
+      "TESTIMONIAL_JANE_SMITH_NAME": "जेन स्मिथ",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "मुख्य वित्तीय अधिकारी, व्यावसायिक समाधान",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "“हमारा सहयोग हमारी वित्तीय प्रबंधन और रणनीतिक योजना प्रक्रियाओं में महत्वपूर्ण सुधारों की ओर ले गया है।”"
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "समाधान पर चर्चा करने के लिए तैयार? Enablero से संपर्क करें",
+      "HERO_SECTION_SUBTITLE": "एक संदेश के माध्यम से, एक समय में, सपनों को हकीकत में बदलना",
+      "HERO_SECTION_BUTTON_TEXT": "आइए जुड़ें"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "आईए मिलकर काम करें",
+      "SUB_HEADING": "Enablero से संपर्क करें",
+      "DIVIDER_TEXT": "हम आपसे सुनना पसंद करेंगे",
+      "FORM_SECTION": {
+        "TITLE": "संपर्क फॉर्म",
+        "DESCRIPTION": "कृपया नीचे दिए गए फॉर्म को भरें और हम जल्द से जल्द आपसे संपर्क करेंगे।",
+        "SUBMIT_BUTTON": "जमा करें",
+        "NEXT_BUTTON": "अगला",
+        "PREVIOUS_BUTTON": "पिछला"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "संपर्क करें",
+        "CONTACT_DESCRIPTION": "हम आपसे सुनना पसंद करेंगे। हमारी मित्रवत टीम हमेशा आपसे बातचीत के लिए यहां है।",
+        "CHAT_TO_US": {
+          "HEADING": "हमसे बात करें",
+          "DESCRIPTION": "हमारी मित्रवत टीम आपकी सहायता के लिए यहां है",
+          "EMAIL": "inquiry@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "कार्यालय",
+          "DESCRIPTION": "हमारे मुख्यालय में हैलो कहने आएं।",
+          "ADDRESS": "सेक्टर 28, गुड़गांव, हरियाणा, 122001"
+        }
+      }
+    }
+  },
+
+  "AboutPage": {
+    "HeroSection": {
+      "SectionHead": "जहां नवाचार जुनून से मिलता है",
+      "SectionPara": "विज़न से वास्तविकता तक: नवोन्मेषी समाधानों और उत्कृष्टता के प्रति प्रतिबद्धता के साथ ग्राहकों को सशक्त बनाने की एनेबलेरो की कहानी"
+    },
+    "MainContent": {
+      "MainHeading": "हम कौन हैं ?",
+      "SubHeading": "आपके नवाचार को तेज करने के लिए एक मजबूत साझेदार के रूप में, हम व्यवसायों को आपूर्ति श्रृंखला, स्वास्थ्य सेवा, वित्तीय प्रौद्योगिकी, इंटरनेट ऑफ थिंग्स (IoT) और अन्य क्षेत्रों के लिए सॉफ्टवेयर इंजीनियरिंग सेवाओं के माध्यम से मूल्य डिलीवरी को अधिकतम करने और स्थिरता सुनिश्चित करने में मदद करते हैं। हम न केवल उच्च गुणवत्ता वाले, स्थिर, मापनीय और कार्यात्मक डिजिटल उत्पादों को डिज़ाइन और वितरित करते हैं, बल्कि हमारे प्रतिभाशाली डेवलपर्स के मूल्यवान और व्यापक ज्ञान को भी साझा करते हैं।",
+      "GridSection": {
+        "0": {
+          "Heading": "35+",
+          "Description": "सक्रिय परियोजनाओं वाले ग्राहक"
+        },
+        "1": {
+          "Heading": "30%",
+          "Description": "ग्राहक साझेदार संदर्भ के माध्यम से Enablero पर आते हैं."
+        },
+        "2": {
+          "Heading": "10+",
+          "Description": "साझेदार जो 7+ वर्षों से Enablero के साथ सहयोग कर रहे हैं"
+        },
+        "3": {
+          "Heading": "74%",
+          "Description": "वार्षिक कंपनी वृद्धि"
+        }
+      },
+      "MissionSection": {
+        "Heading": "हमारा मिशन",
+        "SubHeading": "मिलकर हर कोई अधिक प्राप्त करता है",
+        "Description": "हमारा मिशन है कि हम अपने ग्राहकों को विशेष तकनीकी समाधान प्रदान करें जो उन्हें चुनौतियों को निराकरण करने, नई अवसरों को खोलने, और अपने लक्ष्यों को प्राप्त करने में सक्षम बनाते हैं। हम अद्वितीय सेवा प्रदान करने, नवाचार को प्रोत्साहित करने, और व्यक्तियों और व्यापारों को एक संवेदनशील परिदृश्य में उन्नति प्राप्त करने के लिए प्रतिबद्ध हैं।"
+      },
+      "ValueSection": {
+        "Heading": "हमारे मूल्य",
+        "Description": "एनेब्लेरो एक सहानुभूति, उत्कृष्ट तकनीक, अभिनव व्यापार संस्कृति और बुद्धिमान लोगों का एक पूरी तरह से संयुक्त संयोजन है।",
+        "AllValues": [
+          {
+            "title": "सशक्तिकरण",
+            "description": "व्यक्तियों और व्यवसायों को उनकी संभावनाओं को अनलॉक करने और तकनीकी समाधान के माध्यम से उनके लक्ष्यों को प्राप्त करने के लिए सशक्त बनाना।",
+            "icon": "AccessibilityNewIcon"
+          },
+          {
+            "title": "फुर्ती",
+            "description": "तेज़-गति वाले तकनीकी परिदृश्य में बदलावों और चुनौतियों का तेजी से जवाब देने के लिए फुर्ती और अनुकूलता को अपनाना।",
+            "icon": "DirectionsRunIcon"
+          },
+          {
+            "title": "जवाबदेही",
+            "description": "हमारे कार्यों, प्रतिबद्धताओं और परिणामों का स्वामित्व लेना, और हमारे वादों पर पूरा उतारने के लिए जिम्मेदार होना।",
+            "icon": "VerifiedUserIcon"
+          },
+          {
+            "title": "साहस",
+            "description": "हम साहसिक विचारों को गले लगाते हैं, हिसाब से जोखिम लेते हैं, और नवाचार की सीमाओं को आगे बढ़ाने के लिए प्रेरित करते हैं ताकि परिवर्तनकारी समाधान बना सकें।",
+            "icon": "WhatshotIcon"
+          },
+          {
+            "title": "अध्ययन",
+            "description": "प्रौद्योगिकी की प्रगति में अग्रणी बने रहने और कटिंग-एज समाधान प्रदान करने के लिए निरंतर अध्ययन की मानसिकता को विकसित करना।",
+            "icon": "SchoolIcon"
+          },
+          {
+            "title": "सहानुभूति",
+            "description": "ग्राहकों और सहयोगियों के प्रति सहानुभूति और समझ दिखाते हुए, सुनने और समस्याओं का समाधान करने से उनकी आवश्यकताओं और चिंताओं की पूर्णता सुनिश्चित करना।",
+            "icon": "FavoriteIcon"
+          }
+        ]
+      }
+    }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "जहाँ रचनात्मकता परिणामों से मिलती है",
+      "HERO_SECTION_SUBTITLE": "हमारे प्रोजेक्ट्स का एक चयन देखें, जो विभिन्न उद्योगों में उत्कृष्टता और नवोन्मेषी समाधानों के प्रति हमारी प्रतिबद्धता को उजागर करता है"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "सभी",
+          "TAG_ANDROID": "एंड्रॉइड",
+          "TAG_AI": "एआई",
+          "TAG_WEB": "वेब",
+          "TAG_IOS": "आईओएस"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "छात्र परामर्श पोर्टल",
+          "TAG_ALL": "सभी",
+          "TAG_ANDROID": "एंड्रॉइड",
+          "TAG_AI": "एआई",
+          "TAG_WEB": "वेब",
+          "TAG_IOS": "आईओएस",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "यह पोर्टल छात्रों को शैक्षिक और करियर मार्गदर्शन में सहायता करता है।",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "शिक्षक परामर्श पोर्टल",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "यह पोर्टल शिक्षकों को उनकी शैक्षिक और प्रशासनिक भूमिकाओं में समर्थन करता है।",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "प्रधान शिक्षक परामर्श पोर्टल",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "यह पोर्टल प्रधान शिक्षकों को स्कूल प्रबंधन और नेतृत्व में सहायता करता है।"
+        }
+      }
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "हमारी विशेषज्ञता से आपकी सफलता को सशक्त बनाएं",
+      "HERO_SECTION_SUBTITLE": "जानें कि हमारी विशेषज्ञ टीम आपकी मदद कैसे कर सकती है, चुनौतियों को संघर्ष करना और वृद्धि और दक्षता के लिए नए अवसरों को अनलॉक करना",
+      "HERO_SECTION_BUTTON_TEXT": "जुड़ें"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "हम क्या करते हैं",
+      "SECTION_SUBTITLE": "महान के लिए अच्छा छोड़ने से डरो मत",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "मुख्य विशेषता",
+
+        "SERVICE_AGILE_TITLE": "एजाइल",
+        "SERVICE_AGILE_DESCRIPTION": "परियोजनाओं को दक्ष और अनुकूल विकास के लिए एजाइल मेथडोलॉजी के साथ गतिशीलता दें",
+        "SERVICE_AGILE_KEY_FEATURE_1": "अनुक्रमणिका विकास",
+        "SERVICE_AGILE_KEY_FEATURE_2": "निरंतर प्रतिक्रिया",
+        "SERVICE_AGILE_KEY_FEATURE_3": "क्रॉस-कार्यात्मक टीमें",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "एआई नवाचार",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "कृत्रिम बुद्धिमत्ता के सामर्थ्य का उपयोग करके नवाचार लाने और अपने डेटा से क्रियाशील अनुशासन प्राप्त करें",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "मशीन लर्निंग एकीकरण",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "पूर्वानुमानात्मक विश्लेषण",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "प्राकृतिक भाषा प्रसंस्करण",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "एपीआई प्रबंधन",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "व्यावसायिक प्रक्रियाओं को सुचारू बनाने और व्यापक एपीआई प्रबंधन समाधानों के साथ संचार को बढ़ावा दें",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "एपीआई गेटवे सेटअप",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "एपीआई जीवनचक्र प्रबंधन",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "सुरक्षित एपीआई एकीकरण",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "एप्लिकेशन विकास और प्रबंधन",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "व्यावसायिक आवश्यकताओं और लक्ष्यों के साथ पूरी तरह से संरेखित एप्लिकेशन विकसित और प्रबंधित करें",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "नेटिव ऐप विकास",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "क्रॉस-प्लेटफ़ॉर्म समाधान",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "ऐप स्टोर डिप्लॉयमेंट",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "क्लाउड समाधान",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "क्लाउड कंप्यूटिंग की स्केलेबिलिटी और लचीलापन का उपयोग करके अपने संचालन को अनुकूलित करें और वृद्धि दें",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "स्केलेबल आधारभूत संरचना",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "क्लाउड माइग्रेशन",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "प्रबंधित क्लाउड सेवाएँ",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "डेटा इंसाइट्स",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "अपने डेटा से मूल्यवान अंतर्दृष्टि खोलें और सूचनात्मक निर्णय लें ताकि अपने व्यापार को आगे बढ़ा सकें",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "डेटा दृश्यीकरण",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "उन्नत विश्लेषण",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "व्यावसायिक बुद्धिमत्ता",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "रचनात्मक डिजाइन",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "हमारे नवाचारी डिजाइन समाधानों के साथ अपने विचारों को दृश्यात्मक रूप में बदलें",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "यूआई/यूएक्स डिजाइन",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "ब्रांड पहचान",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "ग्राफिक डिजाइन",
+
+        "SERVICE_DEVOPS_TITLE": "डेवऑप्स",
+        "SERVICE_DEVOPS_DESCRIPTION": "हमारे डेवऑप्स रणनीतियों के साथ विकास और ऑपरेशन के बीच का अंतर कम करके सॉफ़्टवेयर को तेजी से और अधिक विश्वसनीय ढंग से प्रस्तुत करें",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "निरंतर सम्मिलन",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "स्वचालित डिप्लॉयमेंट",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "भूतल के रूप में इंफ्रास्ट्रक्चर",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "बदलावात्मक समाधान",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "डिजिटल प्रौद्योगिकियों को अपनाकर अपने व्यवसाय को डिजिटल युग के लिए पुनर्रचित करें और प्रतिस्पर्धा में एक मुकाबले की एड्ज प्राप्त करें",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "डिजिटल परिवर्तन",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "प्रक्रिया स्वचालन",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "प्रौद्योगिकी परामर्श",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "रणनीतिक परामर्श",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "व्यावसायिक लक्ष्यों और आईटी रणनीतियों को समन्वित करने में हमारे विशेषज्ञ मार्गदर्शन से संगठनिक सफलता दें",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "व्यावसायिक रणनीति",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "बाजार विश्लेषण",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "संगठनात्मक विकास",
+
+        "SERVICE_SECURITY_TITLE": "सुरक्षा",
+        "SERVICE_SECURITY_DESCRIPTION": "हमारी व्यापक सुरक्षा सेवाओं के साथ अपने महत्वपूर्ण संपत्तियों की रक्षा करें और साइबर खतरों से बचाव करें",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "जोखिम मूल्यांकन",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "खतरा मॉनिटरिंग",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "हादसे प्रतिक्रिया",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "वेब विकास और प्रबंधन",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "उपयोगकर्ताओं को जुड़ने और असाधारण ऑनलाइन अनुभव प्रदान करने वाली मजबूत वेब अनुप्रयोगों को बनाएं और प्रबंधित करें",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "उत्तरदायी डिजाइन",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "एसईओ अनुकूलन",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "प्रदर्शन सुधार"
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "अपनी क्षमता को अनलॉक करें एनेब्लेरो के साथ!",
+    "CALL_TO_ACTION_SUBTITLE": "हमारे विशेषज्ञ समाधानों के साथ अपनी दृष्टि को वास्तविकता में बदलने के लिए हमारे साथ जुड़ें। आज ही हमसे संपर्क करें!",
+    "CALL_TO_ACTION_BUTTON_TEXT": "शुरू करें"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "एनेब्लेरो",
+    "COPYRIGHT_TEXT": "सभी अधिकार सुरक्षित हैं, एनेब्लेरो"
+  }
+}

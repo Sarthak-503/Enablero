@@ -1,0 +1,287 @@
+{
+  "LINKS": {
+    "SERVICES": "الخدمات",
+    "CASE_STUDIES": "دراسات الحالة",
+    "ABOUT_US": "من نحن",
+    "CONTACT_US": "اتصل بنا",
+    "TERMS_AND_CONDITIONS": "الشروط والأحكام",
+    "PRIVACY_POLICY": "سياسة الخصوصية",
+    "SITEMAP": "خريطة الموقع"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "لنلتقي",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "اعرف المزيد",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "هل لديك فكرة؟",
+    "NAVBAR_ENABLERO_TEXT": "إنابليرو"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "الإنجليزية",
+    "HINDI": "الهندية",
+    "JAPANESE": "اليابانية",
+    "GERMAN": "الألمانية",
+    "RUSSIAN": "الروسية",
+    "ARABIC": "العربية"
+  },
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "تمكين نجاحك بخبرتنا",
+      "HERO_SECTION_SUBTITLE": "فتح الإمكانيات اللانهائية بحلولنا غير المتناهية"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "خدماتنا",
+      "SECTION_SUBTITLE": "افتح إمكانات عملك مع مجموعتنا الشاملة من الخدمات الخبرية."
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "من نحن",
+      "SECTION_SUBTITLE": "نؤمن في إنابليرو بتعزيز العلاقات القوية مع عملائنا. تم تصميم صفحة اتصل بنا لدينا لتزويدك بطريقة بسيطة للتواصل مع فريقنا المتفاني. سواء كان لديك أسئلة حول خدماتنا، أو تحتاج إلى حل مخصص، أو ترغب في مناقشة مشروع، نحن هنا لنستمع ونساعدك. تواصل معنا اليوم، ولنبدأ رحلة لتمكين عملك معًا."
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "أبرز العملاء",
+      "SECTION_SUBTITLE": "عملاؤنا يثنون علينا! اقرأ مراجعاتهم المتألقة واكتشف لماذا يحبون خدمتنا.",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "ويس مجدديدي",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "مدير التسليم السريع، التجارة الإلكترونية العالمية",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "“من خلال الاستفادة من Jira و Confluence للإبلاغ التلقائي، نوفر أكثر من 800 ساعة و500 ألف دولار سنويًا في تكاليف استشارات الإدارة التي كان يُنفق على التقارير اليدوية في السابق.”",
+      "TESTIMONIAL_JOHN_DOE_NAME": "جون دو",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "الرئيس التنفيذي، رواد التكنولوجيا",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "“لقد غيَّر تنفيذ التقنيات الجديدة عملياتنا بشكل ثوري، مما أدى إلى زيادة الكفاءة وتوفير التكاليف.”",
+      "TESTIMONIAL_JANE_SMITH_NAME": "جين سميث",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "رئيس المالية، حلول الأعمال",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "“تعاوننا أدى إلى تحسينات كبيرة في إدارتنا المالية وعمليات التخطيط الاستراتيجي.”"
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "جاهز لمناقشة الحلول؟ اتصل بـ Enablero",
+      "HERO_SECTION_SUBTITLE": "ربط الأحلام بالواقع، رسالة واحدة في كل مرة",
+      "HERO_SECTION_BUTTON_TEXT": "لنلتقي"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "لنعمل معاً",
+      "SUB_HEADING": "اتصل بـ Enablero",
+      "DIVIDER_TEXT": "نحب أن نسمع منك",
+      "FORM_SECTION": {
+        "TITLE": "نموذج الاتصال",
+        "DESCRIPTION": "يرجى ملء النموذج أدناه وسنعاود الاتصال بك في أقرب وقت ممكن.",
+        "SUBMIT_BUTTON": "إرسال",
+        "NEXT_BUTTON": "التالي",
+        "PREVIOUS_BUTTON": "السابق"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "اتصل بنا",
+        "CONTACT_DESCRIPTION": "نحب أن نسمع منك. فريقنا الودود دائماً هنا للدردشة معك.",
+        "CHAT_TO_US": {
+          "HEADING": "تحدث إلينا",
+          "DESCRIPTION": "فريقنا الودود هنا للمساعدة",
+          "EMAIL": "inquiry@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "المكتب",
+          "DESCRIPTION": "تعال قل مرحباً في مقرنا الرئيسي.",
+          "ADDRESS": "القطاع 28، جوروجرام، هاريانا، 122001"
+        }
+      }
+    }
+  },
+
+  "AboutPage": {
+    "HeroSection": {
+      "SectionHead": "حيث يلتقي الابتكار بالشغف",
+      "SectionPara": "من الرؤية إلى الواقع: قصة Enablero في تمكين العملاء بالحلول المبتكرة والالتزام بالتميز"
+    },
+    "MainContent": {
+      "MainHeading": "من نحن",
+      "SubHeading": "كشريك قوي لتسريع الابتكار الخاص بك، نساعد الشركات على تحقيق أقصى قيمة وضمان الاستدامة من خلال خدمات هندسة البرمجيات لسلاسل التوريد والرعاية الصحية والتكنولوجيا المالية وإنترنت الأشياء وغيرها من المجالات. نحن لا نصمم فقط ونقدم منتجات رقمية عالية الجودة ومستقرة وقابلة للتوسع والوظائف ولكن نشارك أيضًا المعرفة القيمة والواسعة لمطورينا الموهوبين.",
+      "GridSection": {
+        "0": {
+          "Heading": "35+",
+          "Description": "عملاء بمشاريع نشطة"
+        },
+        "1": {
+          "Heading": "30%",
+          "Description": "من العملاء يأتون إلى Enablero عبر توصية شريك."
+        },
+        "2": {
+          "Heading": "10+",
+          "Description": "شركاء يتعاونون مع Enablero لأكثر من 7 سنوات"
+        },
+        "3": {
+          "Heading": "74%",
+          "Description": "نمو الشركة السنوي"
+        }
+      },
+      "MissionSection": {
+        "Heading": "مهمتنا",
+        "SubHeading": "معًا يحقق الجميع المزيد",
+        "Description": "مهمتنا هي تقديم حلول تقنية مخصصة تمكن عملائنا من التغلب على التحديات وفتح فرص جديدة وتحقيق أهدافهم. نحن ملتزمون بتقديم خدمة استثنائية وتعزيز الابتكار وتمكين الأفراد والشركات من الازدهار في مشهد دائم التغير."
+      },
+      "ValueSection": {
+        "Heading": "قيمنا",
+        "Description": "Enablero هي مزيج مثالي من التعاطف والتكنولوجيا العظيمة وثقافة الأعمال المبتكرة والأشخاص الأذكياء.",
+        "AllValues": [
+          {
+            "title": "التمكين",
+            "description": "تمكين الأفراد والشركات من تحقيق إمكاناتهم وتحقيق أهدافهم من خلال حلول التكنولوجيا.",
+            "icon": "AccessibilityNewIcon"
+          },
+          {
+            "title": "المرونة",
+            "description": "احتضان المرونة والقدرة على التكيف للاستجابة بسرعة للتغيرات والتحديات في مشهد التكنولوجيا السريع.",
+            "icon": "DirectionsRunIcon"
+          },
+          {
+            "title": "المساءلة",
+            "description": "تحمل المسؤولية عن أفعالنا ووعودنا ونتائجنا، وتحمل المسؤولية عن الوفاء بوعودنا.",
+            "icon": "VerifiedUserIcon"
+          },
+          {
+            "title": "الجرأة",
+            "description": "نتبنى الأفكار الجريئة ونتخذ المخاطر المحسوبة وندفع حدود الابتكار لخلق حلول تحويلية.",
+            "icon": "WhatshotIcon"
+          },
+          {
+            "title": "التعلم",
+            "description": "تعزيز عقلية التعلم المستمر للبقاء في مقدمة التطورات التكنولوجية وتقديم حلول متقدمة.",
+            "icon": "SchoolIcon"
+          },
+          {
+            "title": "التعاطف",
+            "description": "إظهار التعاطف والفهم تجاه العملاء والزملاء، وضمان أن يتم سماع احتياجاتهم ومخاوفهم ومعالجتها.",
+            "icon": "FavoriteIcon"
+          }
+        ]
+      }
+    }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "حيث تلتقي الإبداع بالنتائج",
+      "HERO_SECTION_SUBTITLE": "استكشف مجموعة مختارة من مشاريعنا، مما يبرز التزامنا بالتميز والحلول الابتكارية عبر مختلف الصناعات"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "الكل",
+          "TAG_ANDROID": "أندرويد",
+          "TAG_AI": "ذكاء اصطناعي",
+          "TAG_WEB": "ويب",
+          "TAG_IOS": "آي أو إس"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "بوابة استشارات الطلاب",
+          "TAG_ALL": "الكل",
+          "TAG_ANDROID": "أندرويد",
+          "TAG_AI": "ذكاء اصطناعي",
+          "TAG_WEB": "ويب",
+          "TAG_IOS": "آي أو إس",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "تساعد هذه البوابة الطلاب في التوجيه التعليمي والمهني.",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "بوابة استشارات المعلمين",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "تدعم هذه البوابة المعلمين في أدوارهم التعليمية والإدارية.",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "بوابة استشارات المديرين",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "تساعد هذه البوابة المديرين في إدارة المدارس والقيادة."
+        }
+      }
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "تمكين نجاحكم بخبرتنا",
+      "HERO_SECTION_SUBTITLE": "اكتشف كيف يمكن لفريقنا الخبير مساعدتك في التغلب على التحديات واستكشاف فرص جديدة للنمو والكفاءة",
+      "HERO_SECTION_BUTTON_TEXT": "لنتواصل"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "ما نقوم به",
+      "SECTION_SUBTITLE": "لا تخف من التخلي عن الجيد من أجل الرائع",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "ميزة رئيسية",
+
+        "SERVICE_AGILE_TITLE": "التطوير السريع",
+        "SERVICE_AGILE_DESCRIPTION": "تسريع مشاريعك باستخدام منهجيات التطوير السريع لتحقيق التنمية الفعالة والمتكيفة",
+        "SERVICE_AGILE_KEY_FEATURE_1": "التطوير التدريجي",
+        "SERVICE_AGILE_KEY_FEATURE_2": "الردود المستمرة",
+        "SERVICE_AGILE_KEY_FEATURE_3": "الفرق متعددة التخصصات",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "الابتكارات في الذكاء الاصطناعي",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "استغلال قوة الذكاء الاصطناعي لدفع الابتكار والحصول على رؤى قابلة للتنفيذ من بياناتك",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "دمج التعلم الآلي",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "التحليل التنبؤي",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "معالجة اللغة الطبيعية",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "إدارة الواجهات البرمجية (API)",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "تبسيط عمليات عملك وتعزيز الاتصالات باستخدام حلول شاملة لإدارة الواجهات البرمجية (API)",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "إعداد بوابة الواجهة البرمجية (API)",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "إدارة دورة حياة الواجهة البرمجية (API)",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "دمج الواجهة البرمجية (API) بأمان",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "تطوير وإدارة التطبيقات",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "تطوير وإدارة تطبيقات مخصصة تتماشى تمامًا مع احتياجات وأهداف عملك",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "تطوير التطبيقات الأصلية",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "حلول متعددة الأنظمة",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "نشر التطبيق في المتجر",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "حلول السحابة",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "الاستفادة من مرونة وقابلية توسيع الحوسبة السحابية لتحسين عملياتك ودفع النمو",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "بنية تحتية قابلة للتوسعة",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "هجرة السحابة",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "خدمات السحابة المدارة",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "تحليلات البيانات",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "استخراج رؤى قيمة من بياناتك واتخاذ قرارات مستنيرة لدفع عملك قدمًا",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "تصور البيانات",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "تحليلات متقدمة",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "الاستخبارات التجارية",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "التصاميم الإبداعية",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "تحويل أفكارك إلى تجارب بصرية جذابة بواسطة حلول التصميم الابتكارية لدينا",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "تصميم واجهة المستخدم/تجربة المستخدم",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "هوية العلامة التجارية",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "تصميم الرسومات",
+
+        "SERVICE_DEVOPS_TITLE": "التشغيل والتطوير المستمر",
+        "SERVICE_DEVOPS_DESCRIPTION": "تقليل الفجوة بين التطوير والعمليات من خلال استراتيجيات التشغيل والتطوير لتقديم البرمجيات بشكل أسرع وأكثر موثوقية",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "التكامل المستمر",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "النشر التلقائي",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "البنية التحتية كرمز",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "الحلول التحولية",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "اعتماد التقنيات الرقمية وإعادة تشكيل عملك للعصر الرقمي للحصول على ميزة تنافسية",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "التحول الرقمي",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "تلقائية العمليات",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "استشارات التكنولوجيا",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "الاستشارات الاستراتيجية",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "تحقيق النجاح التنظيمي من خلال إرشاداتنا الخبيرة في مواءمة أهداف الأعمال واستراتيجيات تكنولوجيا المعلومات",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "استراتيجية الأعمال",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "تحليل السوق",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "تطوير المؤسسات",
+
+        "SERVICE_SECURITY_TITLE": "الأمان",
+        "SERVICE_SECURITY_DESCRIPTION": "حماية أصولك الحيوية والحماية ضد التهديدات السيبرانية من خلال خدماتنا الأمنية الشاملة",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "تقييم المخاطر",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "رصد التهديدات",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "الاستجابة للحوادث",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "إدارة وتطوير الويب",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "بناء وإدارة تطبيقات الويب القوية التي تجذب المستخدمين وتقدم تجارب عبر الإنترنت استثنائية",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "تصميم مستجيب",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "تحسين محركات البحث",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "ضبط الأداء"
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "افتح إمكاناتك مع إنابليرو!",
+    "CALL_TO_ACTION_SUBTITLE": "انضم إلينا لتحويل رؤيتك إلى واقع مع حلولنا الخبيرة. اتصل بنا اليوم!",
+    "CALL_TO_ACTION_BUTTON_TEXT": "ابدأ الآن"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "إنابليرو",
+    "COPYRIGHT_TEXT": "إنابليرو جميع الحقوق محفوظة"
+  }
+}

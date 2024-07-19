@@ -1,0 +1,285 @@
+{
+  "LINKS": {
+    "SERVICES": "Услуги",
+    "CASE_STUDIES": "Кейс-стадии",
+    "ABOUT_US": "О нас",
+    "CONTACT_US": "Контакты",
+    "TERMS_AND_CONDITIONS": "Условия использования",
+    "PRIVACY_POLICY": "Политика конфиденциальности",
+    "SITEMAP": "Карта сайта"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "Поговорим",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "Узнать больше",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "У вас есть идея?",
+    "NAVBAR_ENABLERO_TEXT": "ЭНЕЙБЛЕРО"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "Английский",
+    "HINDI": "Хинди",
+    "JAPANESE": "Японский",
+    "GERMAN": "Немецкий",
+    "RUSSIAN": "Русский",
+    "ARABIC": "Арабский"
+  },
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "ПОДДЕРЖИВАЯ ВАШ УСПЕХ НАШИМ ОПЫТОМ",
+      "HERO_SECTION_SUBTITLE": "Разблокируйте бесконечные возможности с нашими непревзойденными решениями"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "НАШИ УСЛУГИ",
+      "SECTION_SUBTITLE": "Разблокируйте потенциал вашего бизнеса с нашим широким спектром экспертных услуг."
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "О НАС",
+      "SECTION_SUBTITLE": "В Enablero мы верим в укрепление крепких отношений с нашими клиентами. Наша страница Свяжитесь с нами разработана для того, чтобы предоставить вам безголовный способ связаться с нашей преданной командой. Будь то вопросы о наших услугах, необходимость индивидуального решения или обсуждение проекта, мы здесь, чтобы слушать и помогать вам. Свяжитесь с нами сегодня, и давайте начнем совместное путешествие к укреплению вашего бизнеса вместе."
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "Отзывы клиентов",
+      "SECTION_SUBTITLE": "Наши клиенты в восторге от нас! Прочитайте их восторженные отзывы и узнайте, почему им нравится наш сервис",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "Ваис Моджаддиди",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "ДИРЕКТОР ПО АГИЛЬНОЙ ДОСТАВКЕ, ГЛОБАЛЬНЫЙ ЭЛЕКТРОННЫЙ КОММЕРЦИЯ",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "«Используя Jira и Confluence для автоматизированной отчетности, мы экономим более 800 часов и 500 тыс. долларов в год на консалтинговых услугах, которые ранее были потрачены на ручную отчетность».",
+      "TESTIMONIAL_JOHN_DOE_NAME": "Джон Доу",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "ГЕНЕРАЛЬНЫЙ ДИРЕКТОР, ТЕХНОЛОГИЧЕСКИЕ ИННОВАТОРЫ",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "«Внедрение новых технологий радикально изменило наши операции, что привело к повышению эффективности и снижению затрат».",
+      "TESTIMONIAL_JANE_SMITH_NAME": "Джейн Смит",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "ФИНАНСОВЫЙ ДИРЕКТОР, БИЗНЕС РЕШЕНИЯ",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "«Наше сотрудничество привело к значительным улучшениям в нашем финансовом управлении и стратегическом планировании»."
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "УВЕЛИЧИВАЯ ВАШ УСПЕХ НАШИМ ОПЫТОМ",
+      "HERO_SECTION_SUBTITLE": "Откройте, как наша экспертная команда может помочь вам преодолеть вызовы и разблокировать новые возможности для роста и эффективности"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "ЧТО МЫ ДЕЛАЕМ",
+      "SECTION_SUBTITLE": "Не бойтесь отказываться от хорошего, чтобы достичь великого",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "Основные возможности",
+
+        "SERVICE_AGILE_TITLE": "Гибкие методологии",
+        "SERVICE_AGILE_DESCRIPTION": "Ускорение ваших проектов с помощью гибких методологий для эффективной и адаптивной разработки",
+        "SERVICE_AGILE_KEY_FEATURE_1": "Итерационная разработка",
+        "SERVICE_AGILE_KEY_FEATURE_2": "Постоянная обратная связь",
+        "SERVICE_AGILE_KEY_FEATURE_3": "Кросс-функциональные команды",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "Искусственный интеллект",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "Используйте мощь искусственного интеллекта для стимулирования инноваций и получения полезных инсайтов из ваших данных",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "Интеграция машинного обучения",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "Прогностическая аналитика",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "Обработка естественного языка",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "Управление АПИ",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "Оптимизация бизнес-процессов и улучшение связности с помощью комплексных решений по управлению АПИ",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "Настройка АПИ-шлюза",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "Управление жизненным циклом АПИ",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "Безопасная интеграция АПИ",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "Разработка и управление приложениями",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "Разработка и управление настроенными приложениями, которые идеально соответствуют вашим бизнес-потребностям и целям",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "Разработка нативных приложений",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "Кросс-платформенные решения",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "Развертывание в магазине приложений",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "Облачные решения",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "Используйте масштабируемость и гибкость облачных вычислений для оптимизации вашей деятельности и стимулирования роста",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "Масштабируемая инфраструктура",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "Переезд в облако",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "Управление облачными услугами",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "Анализ данных",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "Разблокируйте ценные идеи из ваших данных и принимайте обоснованные решения для продвижения вашего бизнеса вперед",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "Визуализация данных",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "Продвинутая аналитика",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "Бизнес-аналитика",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "Творческие дизайны",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "Превратите ваши идеи в визуально захватывающие опыты с нашими инновационными дизайнерскими решениями",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "Дизайн пользовательского интерфейса/опыта",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "Фирменная идентичность",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "Графический дизайн",
+
+        "SERVICE_DEVOPS_TITLE": "ДевОпс",
+        "SERVICE_DEVOPS_DESCRIPTION": "Заполните пробел между разработкой и операциями с помощью наших стратегий DevOps для доставки программного обеспечения быстрее и надежнее",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "Непрерывная интеграция",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "Автоматизированное развертывание",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "Инфраструктура в виде кода",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "Трансформационные решения",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "Примите цифровые технологии и перестройте свой бизнес для цифровой эпохи, чтобы получить конкурентное преимущество",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "Цифровая трансформация",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "Автоматизация процессов",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "Консалтинг в области технологий",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "Стратегическое консультирование",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "Добейтесь организационного успеха с нашей экспертной поддержкой в выравнивании бизнес-целей и IT-стратегий",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "Бизнес-стратегия",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "Анализ рынка",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "Развитие организации",
+
+        "SERVICE_SECURITY_TITLE": "Безопасность",
+        "SERVICE_SECURITY_DESCRIPTION": "Защитите ваши критические активы и защититесь от киберугроз с помощью наших комплексных услуг по безопасности",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "Оценка рисков",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "Мониторинг угроз",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "Реагирование на инциденты",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "Управление веб-разработкой",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "Создание и управление надежными веб-приложениями, которые привлекают пользователей и предоставляют исключительные онлайн-опыты",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "Отзывчивый дизайн",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "Оптимизация SEO",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "Настройка производительности"
+      }
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "Готовы обсудить решения? Свяжитесь с ЭНЕЙБЛЕРО",
+      "HERO_SECTION_SUBTITLE": "Превращаем мечты в реальность, одно сообщение за другим"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "ДАВАЙТЕ РАБОТАТЬ ВМЕСТЕ",
+      "SUB_HEADING": "Свяжитесь с ЭНЕЙБЛЕРО",
+      "DIVIDER_TEXT": "МЫ БУДЕМ РАДЫ ПОЛУЧИТЬ ВАШЕ СООБЩЕНИЕ",
+      "FORM_SECTION": {
+        "TITLE": "Форма обратной связи",
+        "DESCRIPTION": "Пожалуйста, заполните форму ниже, и мы свяжемся с вами в ближайшее время.",
+        "SUBMIT_BUTTON": "Отправить",
+        "NEXT_BUTTON": "Далее",
+        "PREVIOUS_BUTTON": "Назад"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "Связаться с нами",
+        "CONTACT_DESCRIPTION": "Мы будем рады услышать вас. Наша дружелюбная команда всегда готова пообщаться с вами.",
+        "CHAT_TO_US": {
+          "HEADING": "Напишите нам",
+          "DESCRIPTION": "Наша дружелюбная команда здесь, чтобы помочь",
+          "EMAIL": "inquiry@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "Офис",
+          "DESCRIPTION": "Загляните к нам в офис.",
+          "ADDRESS": "Sector 28, Gurugram, Haryana, 122001"
+        }
+      }
+    }
+  },
+
+  "AboutPage": {
+    "HeroSection": {
+      "SectionHead": "ГДЕ ИННОВАЦИИ ВСТРЕЧАЮТСЯ С ПАССИЕЙ",
+      "SectionPara": "От Видения к Реальности: История Enablero о Повышении Клиентов с Инновационными Решениями и Преданностью к Отличию"
+    },
+    "MainContent": {
+      "MainHeading": "КТО МЫ",
+      "SubHeading": "Как надёжный партнёр в ускорении вашей инновации, мы помогаем бизнесам максимизировать доставку ценности и обеспечивать устойчивость с помощью услуг программной инженерии для снабжения, здравоохранения, финансовых технологий, интернета вещей и других областей. Мы не только проектируем и предоставляем высококачественные, стабильные, масштабируемые и функциональные цифровые продукты, но и делаем доступными ценные и разнообразные знания наших талантливых разработчиков.",
+      "GridSection": {
+        "0": {
+          "Heading": "35+",
+          "Description": "клиентов с активными проектами"
+        },
+        "1": {
+          "Heading": "30%",
+          "Description": "клиентов приходят в Enablero через партнёрские рекомендации."
+        },
+        "2": {
+          "Heading": "10+",
+          "Description": "партнёров, сотрудничающих с Enablero более 7 лет"
+        },
+        "3": {
+          "Heading": "74%",
+          "Description": "годовой рост компании"
+        }
+      },
+      "MissionSection": {
+        "Heading": "НАША МИССИЯ",
+        "SubHeading": "Вместе каждый достигает большего",
+        "Description": "Наша миссия - предоставлять индивидуальные технологические решения, которые позволяют нашим клиентам преодолевать вызовы, открывать новые возможности и достигать своих целей. Мы обязуемся предоставлять исключительный сервис, способствовать инновациям и помогать физическим и юридическим лицам процветать в постоянно меняющейся среде."
+      },
+      "ValueSection": {
+        "Heading": "НАШИ ЦЕННОСТИ",
+        "Description": "Enablero - это идеальное сочетание эмпатии, высоких технологий, инновационной деловой культуры и умных людей.",
+        "AllValues": [
+          {
+            "title": "Эмпауэрмент",
+            "description": "Повышение способностей физических и юридических лиц для разблокировки их потенциала и достижения целей через технологические решения.",
+            "icon": "AccessibilityNewIcon"
+          },
+          {
+            "title": "Ловкость",
+            "description": "Принятие гибкости и адаптивности для быстрого реагирования на изменения и вызовы в быстром темпе технологического ландшафта.",
+            "icon": "DirectionsRunIcon"
+          },
+          {
+            "title": "Ответственность",
+            "description": "Взятие на себя ответственности за наши действия, обязательства и результаты, и отвечать за выполнение наших обещаний.",
+            "icon": "VerifiedUserIcon"
+          },
+          {
+            "title": "Смелость",
+            "description": "Мы принимаем смелые идеи, риски с расчётом и расширяем границы инноваций для создания трансформационных решений.",
+            "icon": "WhatshotIcon"
+          },
+          {
+            "title": "Обучение",
+            "description": "Создание постоянного учебного подхода для оставания на передовых позициях в области технологических достижений и предоставления передовых решений.",
+            "icon": "SchoolIcon"
+          },
+          {
+            "title": "Эмпатия",
+            "description": "Демонстрация эмпатии и понимания по отношению к клиентам и коллегам, обеспечивая, что их потребности и вопросы услышаны и решены.",
+            "icon": "FavoriteIcon"
+          }
+        ]
+      }
+    }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "ГДЕ ТВОРЧЕСТВО ВСТРЕЧАЕТСЯ С РЕЗУЛЬТАТАМИ",
+      "HERO_SECTION_SUBTITLE": "Исследуйте подобранный выбор наших проектов, демонстрирующих наше стремление к отличию и инновационные решения в различных отраслях"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "ВСЕ",
+          "TAG_ANDROID": "Андроид",
+          "TAG_AI": "ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ",
+          "TAG_WEB": "ВЕБ",
+          "TAG_IOS": "ИОС"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "Портал по студенческому консультированию",
+          "TAG_ALL": "ВСЕ",
+          "TAG_ANDROID": "Андроид",
+          "TAG_AI": "ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ",
+          "TAG_WEB": "ВЕБ",
+          "TAG_IOS": "ИОС",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "Этот портал помогает студентам в образовательном и карьерном консультировании.",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "Портал по консультированию учителей",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "Этот портал поддерживает учителей в их образовательной и административной работе.",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "Портал по консультированию директоров",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "Этот портал помогает директорам в управлении школой и лидерстве."
+        }
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "Разблокируйте свой потенциал с ЭНЕЙБЛЕРО!",
+    "CALL_TO_ACTION_SUBTITLE": "Присоединяйтесь к нам, чтобы превратить ваше видение в реальность с нашими экспертными решениями. Свяжитесь с нами сегодня!",
+    "CALL_TO_ACTION_BUTTON_TEXT": "НАЧАТЬ"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "ЭНЕЙБЛЕРО",
+    "COPYRIGHT_TEXT": "ЭНЕЙБЛЕРО. Все права защищены"
+  }
+}

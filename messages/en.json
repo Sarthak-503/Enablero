@@ -1,0 +1,277 @@
+{
+  "LINKS": {
+    "SERVICES": "Services",
+    "CASE_STUDIES": "Case Studies",
+    "ABOUT_US": "About Us",
+    "CONTACT_US": "Contact Us",
+    "TERMS_AND_CONDITIONS": "Terms and Conditions",
+    "PRIVACY_POLICY": "Privacy Policy",
+    "SITEMAP": "Sitemap"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "Lets Talk",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "Learn More",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "Have an idea ?",
+    "NAVBAR_ENABLERO_TEXT": "ENABLERO"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "English",
+    "HINDI": "Hindi",
+    "JAPANESE": "Japanese",
+    "GERMAN": "German",
+    "RUSSIAN": "Russian",
+    "ARABIC": "Arabic"
+  },
+
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "EMPOWERING YOUR SUCCESS WITH OUR EXPERTISE",
+      "HERO_SECTION_SUBTITLE": "Unlock Endless Potential By Our Unparalleled Solutions"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "OUR SERVICES",
+      "SECTION_SUBTITLE": "Unlock your business potential with our comprehensive range of expert services."
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "ABOUT US",
+      "SECTION_SUBTITLE": "At Enablero, we believe in fostering strong relationships with our clients. Our Contact Us page is designed to provide you with a hassle-free way to get in touch with our dedicated team. Whether you have questions about our services, need a customized solution, or want to discuss a project, we are here to listen and assist you. Reach out to us today, and let's embark on a journey to empower your business together."
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "Customer Highlights",
+      "SECTION_SUBTITLE": "Our customers rave about us! Read their glowing reviews and see why they love our service",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "Wais Mojaddidi",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "DIRECTOR OF AGILE DELIVERY, GLOBAL E-COMMERCE",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "“By leveraging Jira and Confluence for automated reporting, we’re saving over 800 hours and $500k per year in management consulting costs previously spent on manual reporting.”",
+      "TESTIMONIAL_JOHN_DOE_NAME": "John Doe",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "CEO, Tech Innovators",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "“The implementation of new technologies has revolutionized our operations, resulting in increased efficiency and cost savings.”",
+      "TESTIMONIAL_JANE_SMITH_NAME": "Jane Smith",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "CFO, Business Solutions",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "“Our collaboration has led to significant improvements in our financial management and strategic planning processes.”"
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "EMPOWERING YOUR SUCCESS WITH OUR EXPERTISE",
+      "HERO_SECTION_SUBTITLE": "Discover how our expert team can help you navigate challenges and unlock new opportunities for growth and efficiency"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "WHAT WE DO",
+      "SECTION_SUBTITLE": "Don’t be afraid to give up the good to go for the great",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "Key Feature",
+
+        "SERVICE_AGILE_TITLE": "Agile",
+        "SERVICE_AGILE_DESCRIPTION": "Accelerate your projects with agile methodologies for efficient and adaptable development",
+        "SERVICE_AGILE_KEY_FEATURE_1": "Iterative Development",
+        "SERVICE_AGILE_KEY_FEATURE_2": "Continuous Feedback",
+        "SERVICE_AGILE_KEY_FEATURE_3": "Cross-functional Teams",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "AI Innovations",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "Harness the power of artificial intelligence to drive innovation and gain actionable insights from your data",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "Machine Learning Integration",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "Predictive Analytics",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "Natural Language Processing",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "API Management",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "Streamline your business processes and enhance connectivity with comprehensive API management solutions",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "API Gateway Setup",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "API Lifecycle Management",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "Secure API Integration",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "Application Development & Management",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "Develop and manage tailored applications that align perfectly with your business needs and goals",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "Native App Development",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "Cross-Platform Solutions",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "App Store Deployment",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "Cloud Solutions",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "Leverage the scalability and flexibility of cloud computing to optimize your operations and drive growth",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "Scalable Infrastructure",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "Cloud Migration",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "Managed Cloud Services",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "Data Insights",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "Unlock valuable insights from your data and make informed decisions to propel your business forward",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "Data Visualization",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "Advanced Analytics",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "Business Intelligence",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "Creative Designs",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "Transform your ideas into visually captivating experiences with our innovative design solutions",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "UI/UX Design",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "Brand Identity",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "Graphic Design",
+
+        "SERVICE_DEVOPS_TITLE": "DevOps",
+        "SERVICE_DEVOPS_DESCRIPTION": "Bridge the gap between development and operations with our DevOps strategies to deliver software faster and more reliably",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "Continuous Integration",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "Automated Deployment",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "Infrastructure as Code",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "Transformative Solutions",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "Embrace digital technologies and reshape your business for the digital age to gain a competitive edge",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "Digital Transformation",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "Process Automation",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "Technology Consulting",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "Strategic Consulting",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "Drive organizational success with our expert guidance in aligning business goals and IT strategies",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "Business Strategy",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "Market Analysis",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "Organizational Development",
+
+        "SERVICE_SECURITY_TITLE": "Security",
+        "SERVICE_SECURITY_DESCRIPTION": "Safeguard your critical assets and protect against cyber threats with our comprehensive security services",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "Risk Assessment",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "Threat Monitoring",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "Incident Response",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "Web Development & Management",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "Build and manage robust web applications that engage users and deliver exceptional online experiences",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "Responsive Design",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "SEO Optimization",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "Performance Tuning"
+      }
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "Ready to Discuss Solutions? Contact Enablero",
+      "HERO_SECTION_SUBTITLE": "Connecting Dreams to Reality, One Message at a Time"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "LET'S WORK TOGETHER",
+      "SUB_HEADING": "Get in Touch with Enablero",
+      "DIVIDER_TEXT": "WE'D LOVE TO HEAR FROM YOU",
+      "FORM_SECTION": {
+        "TITLE": "Contact Form",
+        "DESCRIPTION": "Please fill out the form below and we will get back to you as soon as possible.",
+        "SUBMIT_BUTTON": "Submit",
+        "NEXT_BUTTON": "Next",
+        "PREVIOUS_BUTTON": "Previous"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "Get in touch",
+        "CONTACT_DESCRIPTION": "We'd love to hear from you. Our friendly team is always here to chat with you.",
+        "CHAT_TO_US": {
+          "HEADING": "Chat to us",
+          "DESCRIPTION": "Our Friendly team is here to help",
+          "EMAIL": "inquiry@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "Office",
+          "DESCRIPTION": "Come say Hello at our office HQ.",
+          "ADDRESS": "Sector 28, Gurugram, Haryana, 122001"
+        }
+      }
+    }
+  },
+
+  "ABOUT_US_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "WHERE INNOVATION MEETS PASSION",
+      "HERO_SECTION_SUBTITLE": "From Vision to Reality: Enablero’s Story of Empowering Clients with Innovative Solutions and Commitment to Excellence",
+       "HERO_SECTION_BUTTON_TEXT": "Let's Connect"
+    },
+      "MAIN_CONTENT": {
+        "MAIN_HEADING": "WHO WE ARE",
+        "SUB_HEADING":"With over 2 years of experience in Information Technology Solutions",
+        "DESCRIPTION": "As a strong partner for accelerating your innovation, we help businesses maximize value delivery and ensure sustainability with software engineering services for supply chain, healthcare, FinTech, IoT, and other domains. We not only design and deliver high-quality, stable, scalable, and functional digital products but also share the valuable and wide-ranging knowledge of our talented developers.",
+        "SUBDESCRIPTION": " we are passionate about empowering visions. We are driven by the belief that technology can be a powerful tool for positive change and growth. By unlocking the boundless potential of possibilities, we help our clients navigate the complex IT landscape, overcome obstacles, and seize new opportunities." ,
+        "STATS_SECTION": {
+          "SUBMIT_BUTTON": "Learn More About Us",
+          "HEADING":"Let's see what these Statistics Say",
+          "DESCRIPTION": "We are driven by the belief that technology can be a powerful tool for positive change and growth.",
+          "STATISTICS":{
+            "NUMBER_OF_ACTIVE_CLIENTS_HEADING": "35+",
+            "ACTIVE_CLIENTS_DESCRIPTION": "clients with active projects",
+            "PERCENTAGE_OF_CLIENTS_HEADING": "30%",
+            "PERCENTAGE_OF_CLIENTS_DESCRIPTION": "of clients come to Enablero via a partner reference.",
+            "NUMBER_OF_PARTNER_HEADING": "10+",
+            "NUMBER_OF_PARTNER_DESCRIPTION": "partners that have been collaborating with Enablero for 7+ years",
+            "ANNUAL_GROWTH_HEADING": "74%",
+            "ANNUAL_GROWTH_DESCRIPTION": "annual company growth"
+          }
+        },
+        "MISSION_SECTION": {
+          "HEADING": "OUR MISSION",
+          "SUB_HEADING": "Together everyone achieves more",
+          "DESCRIPTION": "Our mission is to deliver tailored technology solutions that enable our clients to overcome challenges, unlock new opportunities, and achieve their goals. We are committed to providing exceptional service, fostering innovation, and empowering individuals and businesses to thrive in an ever-changing landscape. By leveraging cutting-edge technologies and industry expertise, we aim to drive transformative results and ensure our clients' sustained success. Our dedicated team collaborates closely with clients to understand their unique needs and craft solutions that make a meaningful impact."
+        },
+        "VALUE_SECTION": {
+          "VALUE_HEADING": "OUR VALUES",
+          "VALUE_DESCRIPTION": "Enablero is a perfect combination of empathy, great technology, an innovative business culture, and smart people.",
+          "VALUES":
+            {
+              "EMPOWERMENT_TITLE": "Empowerment",
+              "EMPOWERMENT_DESCRIPTION": "Empowering individuals and businesses to unlock their potential and achieve their goals through technology solutions.",
+              "NIMBLENESS_TITLE": "Nimbleness",
+              "NIMBLENESS_DESCRIPTION": "Embracing agility and adaptability to respond quickly to changes and challenges in the fast-paced tech landscape.",
+              "ACCOUNTABILITY_TITLE": "Accountability",
+              "ACCOUNTABILITY_DESCRIPTION": "Taking ownership of our actions, commitments, and outcomes, and being responsible for delivering on our promises.",
+              "BOLDNESS_TITLE": "Boldness",
+              "BOLDNESS_DESCRIPTION": "We embrace bold ideas, take calculated risks, and push the boundaries of innovation to create transformative solutions.",
+              "LEARNING_TITLE": "Learning",
+              "LEARNING_DESCRIPTION": "Cultivating a continuous learning mindset to stay at the forefront of technology advancements and deliver cutting-edge solutions.",
+              "EMPATHY_TITLE": "Empathy",
+              "EMPATHY_DESCRIPTION": "Demonstrating empathy and understanding towards clients, ensuring their needs and concerns are heard and addressed.",
+              "RELIABILITY_TITLE":"Reliability",
+              "RELIABILITY_DESCRIPTION":"Building trust through consistent, reliable, and dependable delivery of our technology solutions and services",
+              "OPENNESS_TITLE":"Openness",
+              "OPENNESS_DESCRIPTION":"Promoting openness, transparency, and a collaborative spirit, fostering an environment where ideas and feedback are valued"
+            }
+        }, 
+        "VISSION_SECTION":{
+          "VISSION_HEADING": "Our Vission",
+          "VISSION_DESCRIPTION":"Empowering visions by unlocking the boundless potential of possibilities through innovative solutions"
+        }
+      }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "WHERE CREATIVITY MEETS RESULTS",
+      "HERO_SECTION_SUBTITLE": "Explore a curated selection of our projects, highlighting our commitment to excellence and innovative solutions across various industries"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "ALL",
+          "TAG_ANDROID": "ANDROID",
+          "TAG_AI": "AI",
+          "TAG_WEB": "WEB",
+          "TAG_IOS": "IOS"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "Student Counselling Portal",
+          "TAG_ALL": "ALL",
+          "TAG_ANDROID": "ANDROID",
+          "TAG_AI": "AI",
+          "TAG_WEB": "WEB",
+          "TAG_IOS": "IOS",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "This portal assists students in educational and career guidance.",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "Teacher Counselling Portal",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "This portal supports teachers in their educational and administrative roles.",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "Principal Counselling Portal",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "This portal assists principals in school management and leadership."
+        }
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "Unlock Your Potential with Enablero!",
+    "CALL_TO_ACTION_SUBTITLE": "Join us to transform your vision into reality with our expert solutions. Contact us today!",
+    "CALL_TO_ACTION_BUTTON_TEXT": "GET STARTED"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "ENABLERO",
+    "COPYRIGHT_TEXT": "Enablero All rights reserved"
+  }
+}

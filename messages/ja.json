@@ -1,0 +1,286 @@
+{
+  "LINKS": {
+    "SERVICES": "サービス",
+    "CASE_STUDIES": "事例研究",
+    "ABOUT_US": "会社概要",
+    "CONTACT_US": "お問い合わせ",
+    "TERMS_AND_CONDITIONS": "利用規約",
+    "PRIVACY_POLICY": "プライバシーポリシー",
+    "SITEMAP": "サイトマップ"
+  },
+
+  "COMMON_COMPONENTS": {
+    "HERO_SECTION_BUTTON_TEXT": "話をしましょう",
+    "HOME_SECTION_LEARN_MORE_BUTTON": "詳細を見る",
+    "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "アイデアがありますか？",
+    "NAVBAR_ENABLERO_TEXT": "エネーブロ"
+  },
+
+  "LANGUAGE_SELECTORS": {
+    "ENGLISH": "英語",
+    "HINDI": "ヒンディー語",
+    "JAPANESE": "日本語",
+    "GERMAN": "ドイツ語",
+    "RUSSIAN": "ロシア語",
+    "ARABIC": "アラビア語"
+  },
+
+  "HOME_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "私たちの専門知識であなたの成功を支援します",
+      "HERO_SECTION_SUBTITLE": "私たちの比類のないソリューションで無限の可能性を開放してください"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "私たちのサービス",
+      "SECTION_SUBTITLE": "当社の包括的な専門サービスでビジネスの可能性を開放してください。"
+    },
+    "ABOUT_US": {
+      "SECTION_TITLE": "会社概要",
+      "SECTION_SUBTITLE": "Enableroでは、お客様との強固な関係を築くことを信条としています。当社のお問い合わせページは、専門のチームと簡単に連絡を取るための手間のかからない方法を提供するために設計されています。当社のサービスに関する質問、カスタマイズされたソリューションの必要性、またはプロジェクトの議論が必要な場合、お聞かせください。今日お問い合わせいただき、一緒にビジネスを強化する旅を始めましょう。"
+    },
+    "CLIENT_TESTIMONIALS": {
+      "SECTION_TITLE": "顧客の声",
+      "SECTION_SUBTITLE": "お客様からの絶賛の声！彼らが当社のサービスを気に入っている理由をお読みください",
+      "TESTIMONIAL_WAIS_MOJADDIDI_NAME": "ワイス・モジャディディ",
+      "TESTIMONIAL_WAIS_MOJADDIDI_TITLE": "アジャイルデリバリー部門ディレクター、グローバルEコマース",
+      "TESTIMONIAL_WAIS_MOJADDIDI_QUOTE": "「JiraとConfluenceを活用した自動レポートにより、手動レポートにかかっていた年間80万ドル以上の管理コンサルティング費用を節約しています。」",
+      "TESTIMONIAL_JOHN_DOE_NAME": "ジョン・ドウ",
+      "TESTIMONIAL_JOHN_DOE_TITLE": "CEO、テックイノベーター",
+      "TESTIMONIAL_JOHN_DOE_QUOTE": "「新技術の導入により、業務の革新を遂げ、効率とコストの節約が実現しました。」",
+      "TESTIMONIAL_JANE_SMITH_NAME": "ジェーン・スミス",
+      "TESTIMONIAL_JANE_SMITH_TITLE": "CFO、ビジネスソリューション",
+      "TESTIMONIAL_JANE_SMITH_QUOTE": "「当社との協力は、財務管理と戦略的計画プロセスの大幅な改善につながりました。」"
+    }
+  },
+
+  "SERVICE_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "私たちの専門知識であなたの成功を支援します",
+      "HERO_SECTION_SUBTITLE": "私たちの専門チームがお手伝いし、成長と効率性の新しい可能性を開拓する方法を発見してください"
+    },
+    "SERVICE_SECTION": {
+      "SECTION_TITLE": "私たちの提供するサービス",
+      "SECTION_SUBTITLE": "良いものを捨てて素晴らしいものを追求することを恐れないでください",
+      "SERVICES": {
+        "KEY_FEATURE_TITLE": "主な特徴",
+
+        "SERVICE_AGILE_TITLE": "アジャイル",
+        "SERVICE_AGILE_DESCRIPTION": "効率的で適応性のある開発のためのアジャイルな方法論でプロジェクトを加速します",
+        "SERVICE_AGILE_KEY_FEATURE_1": "反復的な開発",
+        "SERVICE_AGILE_KEY_FEATURE_2": "継続的フィードバック",
+        "SERVICE_AGILE_KEY_FEATURE_3": "クロスファンクショナルチーム",
+
+        "SERVICE_AI_INNOVATIONS_TITLE": "エーアイイノベーション",
+        "SERVICE_AI_INNOVATIONS_DESCRIPTION": "人工知能の力を活用して革新を促進し、データから具体的な洞察を得る",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "機械学習の統合",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "予測分析",
+        "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "自然言語処理",
+
+        "SERVICE_API_MANAGEMENT_TITLE": "エーピーアイ管理",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "包括的なエーピーアイ管理ソリューションでビジネスプロセスを効率化し、接続性を向上させます",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "エーピーアイゲートウェイの設定",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "エーピーアイライフサイクル管理",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "セキュアエーピーアイ統合",
+
+        "SERVICE_APP_DEV_MANAGEMENT_TITLE": "アプリケーション開発と管理",
+        "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "ビジネスのニーズと目標に完全に合致するように調整されたアプリケーションの開発と管理",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_1": "ネイティブアプリの開発",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_2": "クロスプラットフォームソリューション",
+        "SERVICE_APP_DEV_MANAGEMENT_KEY_FEATURE_3": "アプリストアの展開",
+
+        "SERVICE_CLOUD_SOLUTIONS_TITLE": "クラウドソリューション",
+        "SERVICE_CLOUD_SOLUTIONS_DESCRIPTION": "クラウドコンピューティングの拡張性と柔軟性を活用してオペレーションを最適化し、成長を促進します",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_1": "スケーラブルなインフラ",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_2": "クラウド移行",
+        "SERVICE_CLOUD_SOLUTIONS_KEY_FEATURE_3": "管理されたクラウドサービス",
+
+        "SERVICE_DATA_INSIGHTS_TITLE": "データインサイト",
+        "SERVICE_DATA_INSIGHTS_DESCRIPTION": "データから貴重な洞察を引き出し、ビジネスを前進させるための情報を提供します",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_1": "データ可視化",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_2": "高度な分析",
+        "SERVICE_DATA_INSIGHTS_KEY_FEATURE_3": "ビジネスインテリジェンス",
+
+        "SERVICE_CREATIVE_DESIGNS_TITLE": "クリエイティブデザイン",
+        "SERVICE_CREATIVE_DESIGNS_DESCRIPTION": "革新的なデザインソリューションでアイデアを視覚的に魅力的な体験に変えます",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_1": "UI/UXデザイン",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "ブランドアイデンティティ",
+        "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "グラフィックデザイン",
+
+        "SERVICE_DEVOPS_TITLE": "デブオプス",
+        "SERVICE_DEVOPS_DESCRIPTION": "開発と運用の間のギャップを埋め、ソフトウェアの迅速かつ信頼性の高い提供を実現するためのDevOps戦略",
+        "SERVICE_DEVOPS_KEY_FEATURE_1": "継続的インテグレーション",
+        "SERVICE_DEVOPS_KEY_FEATURE_2": "自動化された展開",
+        "SERVICE_DEVOPS_KEY_FEATURE_3": "インフラストラクチャのコード化",
+
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_TITLE": "変革的なソリューション",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_DESCRIPTION": "デジタル技術を取り入れ、競争優位性を得るためにビジネスをデジタル時代に合わせて再構築します",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_1": "デジタルトランスフォーメーション",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_2": "プロセス自動化",
+        "SERVICE_TRANSFORMATIVE_SOLUTIONS_KEY_FEATURE_3": "テクノロジーコンサルティング",
+
+        "SERVICE_STRATEGIC_CONSULTING_TITLE": "戦略的コンサルティング",
+        "SERVICE_STRATEGIC_CONSULTING_DESCRIPTION": "ビジネス目標とIT戦略の調整における専門的な指導で組織の成功を推進します",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_1": "ビジネス戦略",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_2": "市場分析",
+        "SERVICE_STRATEGIC_CONSULTING_KEY_FEATURE_3": "組織の開発",
+
+        "SERVICE_SECURITY_TITLE": "セキュリティ",
+        "SERVICE_SECURITY_DESCRIPTION": "包括的なセキュリティサービスで重要な資産を保護し、サイバー脅威から守ります",
+        "SERVICE_SECURITY_KEY_FEATURE_1": "リスクアセスメント",
+        "SERVICE_SECURITY_KEY_FEATURE_2": "脅威モニタリング",
+        "SERVICE_SECURITY_KEY_FEATURE_3": "インシデント対応",
+
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "ウェブ開発と管理",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "ユーザーを魅了し、優れたオンライン体験を提供する堅牢なウェブアプリケーションの構築と管理",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "レスポンシブデザイン",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "SEO最適化",
+        "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "パフォーマンスチューニング"
+      }
+    }
+  },
+
+  "CONTACT_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "解決策を話し合う準備はできましたか？エネーブロにお問い合わせください",
+      "HERO_SECTION_SUBTITLE": "夢を現実につなげる、一つのメッセージです"
+    },
+    "MAIN_CONTENT": {
+      "MAIN_HEADING": "一緒に働きましょう",
+      "SUB_HEADING": "Enableroに連絡してください",
+      "DIVIDER_TEXT": "お問い合わせをお待ちしています",
+      "FORM_SECTION": {
+        "TITLE": "お問い合わせフォーム",
+        "DESCRIPTION": "以下のフォームに記入していただければ、できるだけ早くご連絡いたします。",
+        "SUBMIT_BUTTON": "送信",
+        "NEXT_BUTTON": "次へ",
+        "PREVIOUS_BUTTON": "前へ"
+      },
+      "SIDEBAR": {
+        "CONTACT_HEADING": "お問い合わせ",
+        "CONTACT_DESCRIPTION": "お気軽にご連絡ください。フレンドリーなチームがお手伝いいたします。",
+        "CHAT_TO_US": {
+          "HEADING": "チャット",
+          "DESCRIPTION": "私たちのフレンドリーなチームがお手伝いします",
+          "EMAIL": "inquiry@enablero.com"
+        },
+        "OFFICE": {
+          "HEADING": "オフィス",
+          "DESCRIPTION": "オフィスにご来訪ください。",
+          "ADDRESS": "Sector 28, Gurugram, Haryana, 122001"
+        }
+      }
+    }
+  },
+
+  "AboutPage": {
+    "HeroSection": {
+      "SectionHead": "イノベーションと情熱の交差点",
+      "SectionPara": "ビジョンから現実へ：Enableroの顧客に革新的なソリューションと卓越性を提供する物語"
+    },
+    "MainContent": {
+      "MainHeading": "私たちについて",
+      "SubHeading": "革新を加速する強力なパートナーとして、供給チェーン、ヘルスケア、フィンテック、IoTなどの領域向けのソフトウェアエンジニアリングサービスで、ビジネスが価値を最大化し、持続可能性を確保できるよう支援します。私たちは高品質で安定した、スケーラブルで機能的なデジタル製品を設計し、提供するだけでなく、私たちの優れた開発者の貴重で幅広い知識を共有します。",
+      "GridSection": {
+        "0": {
+          "Heading": "35+",
+          "Description": "アクティブプロジェクトを持つクライアント"
+        },
+        "1": {
+          "Heading": "30%",
+          "Description": "クライアントの30%がEnableroをパートナーの紹介で利用しています。"
+        },
+        "2": {
+          "Heading": "10+",
+          "Description": "7年以上Enableroと協力しているパートナー"
+        },
+        "3": {
+          "Heading": "74%",
+          "Description": "年間企業成長率"
+        }
+      },
+      "MissionSection": {
+        "Heading": "私たちのミッション",
+        "SubHeading": "一緒に皆がより多くを達成する",
+        "Description": "私たちの使命は、お客様が課題を克服し、新しい機会を開拓し、目標を達成できるようにするための、適切なテクノロジーソリューションを提供することです。私たちは卓越したサービスの提供、革新の促進、変化する環境での個人とビジネスの成長を支援することを約束します。"
+      },
+      "ValueSection": {
+        "Heading": "私たちの価値観",
+        "Description": "Enableroは共感、優れた技術、革新的なビジネス文化、そしてスマートな人々の完璧な組み合わせです。",
+        "AllValues": [
+          {
+            "title": "エンパワーメント",
+            "description": "技術ソリューションを通じて、個人やビジネスが潜在能力を引き出し、目標を達成する支援。",
+            "icon": "AccessibilityNewIcon"
+          },
+          {
+            "title": "機動性",
+            "description": "急速に変化するテクノロジーランドスケープでの変化と課題に迅速に対応するための柔軟性と適応力の受け入れ。",
+            "icon": "DirectionsRunIcon"
+          },
+          {
+            "title": "責任",
+            "description": "私たちの行動、約束、成果に対する責任を取り、約束の履行を負います。",
+            "icon": "VerifiedUserIcon"
+          },
+          {
+            "title": "大胆さ",
+            "description": "大胆なアイデアを受け入れ、計算されたリスクを取り、革新の境界を押し広げて、変革的なソリューションを創造します。",
+            "icon": "WhatshotIcon"
+          },
+          {
+            "title": "学び",
+            "description": "技術の進展の最前線に位置し、最先端のソリューションを提供するための継続的な学びのマインドセットを育成します。",
+            "icon": "SchoolIcon"
+          },
+          {
+            "title": "共感",
+            "description": "お客様や同僚に対する共感と理解を示し、彼らのニーズや懸念が聞かれ、対処されるようにします。",
+            "icon": "FavoriteIcon"
+          }
+        ]
+      }
+    }
+  },
+
+  "PORTFOLIO_PAGE": {
+    "HERO_SECTION": {
+      "HERO_SECTION_TITLE": "クリエイティビティと成果が交差する場所",
+      "HERO_SECTION_SUBTITLE": "さまざまな業界での卓越性と革新的なソリューションを強調した、厳選された当社のプロジェクトをご覧ください"
+    },
+    "MAIN_CONTENT": {
+      "PROJECTS": {
+        "FILTER_BUTTONS": {
+          "TAG_ALL": "すべて",
+          "TAG_ANDROID": "アンドロイド",
+          "TAG_AI": "人工知能",
+          "TAG_WEB": "ウェブ",
+          "TAG_IOS": "アイオーエス"
+        },
+        "PROJECT_INFORMATION": {
+          "STUDENT_COUNSELLING_PORTAL_TITLE": "学生カウンセリングポータル",
+          "TAG_ALL": "すべて",
+          "TAG_ANDROID": "アンドロイド",
+          "TAG_AI": "人工知能",
+          "TAG_WEB": "ウェブ",
+          "TAG_IOS": "アイオーエス",
+          "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "このポータルは、学生が教育とキャリアのガイダンスを受けるのに役立ちます。",
+          "TEACHER_COUNSELLING_PORTAL_TITLE": "教師カウンセリングポータル",
+          "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "このポータルは、教師が教育と管理の役割をサポートします。",
+          "PRINCIPAL_COUNSELLING_PORTAL_TITLE": "校長カウンセリングポータル",
+          "PRINCIPAL_COUNSELLING_PORTAL_DESCRIPTION": "このポータルは、校長が学校経営とリーダーシップを支援します。"
+        }
+      }
+    }
+  },
+
+  "FOOTER_CALL_TO_ACTION": {
+    "CALL_TO_ACTION_TITLE": "イネーベロ でポテンシャルを開放しましょう！",
+    "CALL_TO_ACTION_SUBTITLE": "当社の専門ソリューションであなたのビジョンを現実に変えるために、今日すぐお問い合わせください！",
+    "CALL_TO_ACTION_BUTTON_TEXT": "はじめる"
+  },
+
+  "FOOTER": {
+    "ENABLERO_TEXT": "エネーブロ",
+    "COPYRIGHT_TEXT": "エナブレロ　全著作権所有"
+  }
+}

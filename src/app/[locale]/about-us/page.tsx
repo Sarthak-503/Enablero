@@ -10,10 +10,10 @@ import SecurityIcon from '@mui/icons-material/Security';
 import PublicIcon from '@mui/icons-material/Public';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import WhoWeAreSection from '@/components/about/who-we-are';
+import MissionSection from '@/components/about/mission';
 
 // TODO Write the variables name in camelCase
 // import WhoWeAre from '@/animations/WhoWeAre.json'
-import Mission from '@/animations/Mission.json';
 import Vission from '@/animations/Vission.json';
 import Lottie from 'lottie-react';
 import {
@@ -30,6 +30,7 @@ import React from 'react';
 import { aboutContent } from '@/services/about-content';
 import Statistics from '@/components/about/statistics';
 import Image from 'next/image';
+import Value from '@/components/about/value';
 // TODO Fixed the hyderation error.
 
 // TODO Add it on seprate file. Take idea from the case studies buttons.
@@ -276,7 +277,7 @@ const About = () => {
         />
 
         {/* Mission Section */}
-        <Box>
+        {/* <Box>
           <Container
             sx={{
               mt: { xs: '3rem', sm: '4rem', md: '5rem', lg: '6rem' }
@@ -307,14 +308,13 @@ const About = () => {
                   sm: '1rem',
                   md: '1.125rem',
                   lg: '1.25rem',
-                }, // Adjust font size for body2 based on screen size
+                }
               }}
             >
               {t(
                 `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.subHeading}`
               )}
             </Typography>
-            {/* TODO Add a subtitle here in the mission */}
             <Grid
               container
               spacing={3}
@@ -333,10 +333,7 @@ const About = () => {
                     sm: 'center',
                     md: 'start',
                     lg: 'start',
-                  }} // Center text on smaller screens, align left on medium and larger screens
-                  // sx={{
-                  //   fontSize: { xs: '0.875rem', sm: '1rem', md: '1.125rem', lg: '1.25rem' } // Adjust font size for body1 based on screen size
-                  // }}
+                  }} 
                 >
                   {t(
                     `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.description}`
@@ -349,7 +346,7 @@ const About = () => {
                 md={6}
                 sx={{
                   display: 'flex',
-                  justifyContent: 'center', // Center Lottie animation on smaller screens
+                  justifyContent: 'center',
                 }}
               >
                 <Lottie
@@ -359,7 +356,13 @@ const About = () => {
               </Grid>
             </Grid>
           </Container>
-        </Box>
+        </Box> */}
+        <MissionSection 
+        heading = {aboutContent.mainSection.missionSection.heading}
+        subHeading = {aboutContent.mainSection.missionSection.subHeading}
+        description = {aboutContent.mainSection.missionSection.description}
+        />
+        
 
         {/* Vission Section */}
         <Box>
@@ -378,7 +381,6 @@ const About = () => {
                   display='flex'
                   justifyContent='center'
                 >
-                  {/*TODO Use Next image */}
                     <Lottie
                       animationData={Vission}
                       style={{
@@ -439,102 +441,7 @@ const About = () => {
 
         {/* Value Section */}
         <Box>
-             <Container
-            sx={{
-              mt: 4,
-              mb: 4,
-              p: 2,
-              alignItems: 'center',
-            }}
-          >
-              <Typography variant='h2' align='center'>
-                {t(
-                  `MAIN_CONTENT.VALUE_SECTION.${aboutContent.mainSection.valueSection.heading}`
-                )}
-              </Typography>
-              <Typography variant='body1'  align='center'>
-                {t(
-                  `MAIN_CONTENT.VALUE_SECTION.${aboutContent.mainSection.valueSection.description}`
-                )}
-              </Typography>
-
-            <Box
-              sx={{mt:'2rem'}}             
-            >
-              {/* TODO Remove the hover gray color and make it like the testimonials card  */}
-              {values.map((value, index) => (
-                <Grid
-                  item
-                  xs={12}
-                  key={index}
-                  sx={{
-                    borderRadius: '0.5rem',
-                    display: 'flex',
-                    alignItems: 'center',
-                    textAlign: 'center',
-                    width: '100%',
-                    position: 'relative',
-                    m: '1rem',
-                    '&:hover': {
-                      borderColor: 'primary.dark',
-                      boxShadow: '0px 5px 22px rgba(0, 0, 0, 0.04), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.03)',
-                      curser:'pointer'
-                    },
-                  }}
-                >
-                  {/* <Card> */}
-                  {/* Box for Icon and Letter  */}
-                  <Box
-                    sx={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      bgcolor: 'primary.light',
-                      width: '8rem',
-                      flexDirection: 'row',
-                      justifyContent: 'space-around',
-                      p: 2,
-                      maxHeight: '2',
-                      height: '100%',
-                      borderRadius: '0px 15px 12px 0px',
-                   
-                    }}
-                  >
-                    <Typography variant='body2'>{value.icon}</Typography>
-                    <Typography
-                      variant='h2'
-                      sx={{
-                        fontWeight: 'bold',
-                        marginRight: '1rem',
-                      }}
-                    >
-                      {t(
-                        `MAIN_CONTENT.VALUE_SECTION.VALUES.${value.title}`
-                      ).charAt(0)}
-                    </Typography>
-                  </Box>
-                  {/* Box For Title and Description  */}
-                  <Box sx={{ flex: 1, alignItems: 'center' }}>
-                    <Typography
-                      variant='h6'
-                      sx={{ fontWeight: 'bold', marginRight: '2' }}
-                    >
-                      {t(`MAIN_CONTENT.VALUE_SECTION.VALUES.${value.title}`)}
-                    </Typography>
-                    <Typography
-                      sx={{
-                        variant: 'body1',
-                      }}
-                    >
-                      {t(
-                        `MAIN_CONTENT.VALUE_SECTION.VALUES.${value.description}`
-                      )}
-                    </Typography>
-                  </Box>
-                  {/* </Card> */}
-                </Grid>
-              ))}
-            </Box>
-          </Container>
+           <Value/>
         </Box>
       </Box>
     </>

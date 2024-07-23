@@ -8,7 +8,7 @@ export const aboutContent = {
     mainHeading: 'MAIN_HEADING',
     subHeading: 'SUB_HEADING',
     description: 'DESCRIPTION',
-    subdescription: 'SUBDESCRIPTION',
+    subDescription: 'SUBDESCRIPTION',
     statsSection: {
       submitButton: 'SUBMIT_BUTTON',
       heading: 'HEADING',

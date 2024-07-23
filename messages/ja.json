@@ -9,20 +9,26 @@
     "SITEMAP": "サイトマップ"
   },
 
+  "COUNTING": {
+    "1": "一",
+    "2": "二",
+    "3": "三",
+    "4": "四",
+    "5": "五",
+    "6": "六",
+    "7": "七",
+    "8": "八",
+    "9": "九",
+    "10": "十",
+    "11": "十一",
+    "12": "十二"
+  },
+
   "COMMON_COMPONENTS": {
     "HERO_SECTION_BUTTON_TEXT": "話をしましょう",
     "HOME_SECTION_LEARN_MORE_BUTTON": "詳細を見る",
     "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "アイデアがありますか？",
-    "NAVBAR_ENABLERO_TEXT": "エネーブロ"
-  },
-
-  "LANGUAGE_SELECTORS": {
-    "ENGLISH": "英語",
-    "HINDI": "ヒンディー語",
-    "JAPANESE": "日本語",
-    "GERMAN": "ドイツ語",
-    "RUSSIAN": "ロシア語",
-    "ARABIC": "アラビア語"
+    "NAVBAR_ENABLERO_TEXT": "ENABLERO"
   },
 
   "HOME_PAGE": {
@@ -70,17 +76,17 @@
         "SERVICE_AGILE_KEY_FEATURE_2": "継続的フィードバック",
         "SERVICE_AGILE_KEY_FEATURE_3": "クロスファンクショナルチーム",
 
-        "SERVICE_AI_INNOVATIONS_TITLE": "エーアイイノベーション",
+        "SERVICE_AI_INNOVATIONS_TITLE": "AIイノベーション",
         "SERVICE_AI_INNOVATIONS_DESCRIPTION": "人工知能の力を活用して革新を促進し、データから具体的な洞察を得る",
         "SERVICE_AI_INNOVATIONS_KEY_FEATURE_1": "機械学習の統合",
         "SERVICE_AI_INNOVATIONS_KEY_FEATURE_2": "予測分析",
         "SERVICE_AI_INNOVATIONS_KEY_FEATURE_3": "自然言語処理",
 
-        "SERVICE_API_MANAGEMENT_TITLE": "エーピーアイ管理",
-        "SERVICE_API_MANAGEMENT_DESCRIPTION": "包括的なエーピーアイ管理ソリューションでビジネスプロセスを効率化し、接続性を向上させます",
-        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "エーピーアイゲートウェイの設定",
-        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "エーピーアイライフサイクル管理",
-        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "セキュアエーピーアイ統合",
+        "SERVICE_API_MANAGEMENT_TITLE": "API管理",
+        "SERVICE_API_MANAGEMENT_DESCRIPTION": "包括的なAPI管理ソリューションでビジネスプロセスを効率化し、接続性を向上させます",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_1": "APIゲートウェイの設定",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_2": "APIライフサイクル管理",
+        "SERVICE_API_MANAGEMENT_KEY_FEATURE_3": "セキュアAPI統合",
 
         "SERVICE_APP_DEV_MANAGEMENT_TITLE": "アプリケーション開発と管理",
         "SERVICE_APP_DEV_MANAGEMENT_DESCRIPTION": "ビジネスのニーズと目標に完全に合致するように調整されたアプリケーションの開発と管理",
@@ -106,7 +112,7 @@
         "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_2": "ブランドアイデンティティ",
         "SERVICE_CREATIVE_DESIGNS_KEY_FEATURE_3": "グラフィックデザイン",
 
-        "SERVICE_DEVOPS_TITLE": "デブオプス",
+        "SERVICE_DEVOPS_TITLE": "DevOps",
         "SERVICE_DEVOPS_DESCRIPTION": "開発と運用の間のギャップを埋め、ソフトウェアの迅速かつ信頼性の高い提供を実現するためのDevOps戦略",
         "SERVICE_DEVOPS_KEY_FEATURE_1": "継続的インテグレーション",
         "SERVICE_DEVOPS_KEY_FEATURE_2": "自動化された展開",
@@ -130,8 +136,8 @@
         "SERVICE_SECURITY_KEY_FEATURE_2": "脅威モニタリング",
         "SERVICE_SECURITY_KEY_FEATURE_3": "インシデント対応",
 
-        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "ウェブ開発と管理",
-        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "ユーザーを魅了し、優れたオンライン体験を提供する堅牢なウェブアプリケーションの構築と管理",
+        "SERVICE_WEB_DEV_MANAGEMENT_TITLE": "Web開発と管理",
+        "SERVICE_WEB_DEV_MANAGEMENT_DESCRIPTION": "ユーザーを魅了し、優れたオンライン体験を提供する堅牢なWebアプリケーションの構築と管理",
         "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_1": "レスポンシブデザイン",
         "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_2": "SEO最適化",
         "SERVICE_WEB_DEV_MANAGEMENT_KEY_FEATURE_3": "パフォーマンスチューニング"
@@ -141,7 +147,7 @@
 
   "CONTACT_PAGE": {
     "HERO_SECTION": {
-      "HERO_SECTION_TITLE": "解決策を話し合う準備はできましたか？エネーブロにお問い合わせください",
+      "HERO_SECTION_TITLE": "解決策を話し合う準備はできましたか？Enableroにお問い合わせください",
       "HERO_SECTION_SUBTITLE": "夢を現実につなげる、一つのメッセージです"
     },
     "MAIN_CONTENT": {
@@ -171,76 +177,65 @@
       }
     }
   },
-
-  "AboutPage": {
-    "HeroSection": {
-      "SectionHead": "イノベーションと情熱の交差点",
-      "SectionPara": "ビジョンから現実へ：Enableroの顧客に革新的なソリューションと卓越性を提供する物語"
-    },
-    "MainContent": {
-      "MainHeading": "私たちについて",
-      "SubHeading": "革新を加速する強力なパートナーとして、供給チェーン、ヘルスケア、フィンテック、IoTなどの領域向けのソフトウェアエンジニアリングサービスで、ビジネスが価値を最大化し、持続可能性を確保できるよう支援します。私たちは高品質で安定した、スケーラブルで機能的なデジタル製品を設計し、提供するだけでなく、私たちの優れた開発者の貴重で幅広い知識を共有します。",
-      "GridSection": {
-        "0": {
-          "Heading": "35+",
-          "Description": "アクティブプロジェクトを持つクライアント"
-        },
-        "1": {
-          "Heading": "30%",
-          "Description": "クライアントの30%がEnableroをパートナーの紹介で利用しています。"
-        },
-        "2": {
-          "Heading": "10+",
-          "Description": "7年以上Enableroと協力しているパートナー"
-        },
-        "3": {
-          "Heading": "74%",
-          "Description": "年間企業成長率"
-        }
+    "ABOUT_US_PAGE": {
+      "HERO_SECTION": {
+        "HERO_SECTION_TITLE": "革新が情熱と出会う場所",
+        "HERO_SECTION_SUBTITLE": "ビジョンから現実へ: Enableroの革新的なソリューションと卓越性へのコミットメントによる顧客支援の物語",
+        "HERO_SECTION_BUTTON_TEXT": "つながりましょう"
       },
-      "MissionSection": {
-        "Heading": "私たちのミッション",
-        "SubHeading": "一緒に皆がより多くを達成する",
-        "Description": "私たちの使命は、お客様が課題を克服し、新しい機会を開拓し、目標を達成できるようにするための、適切なテクノロジーソリューションを提供することです。私たちは卓越したサービスの提供、革新の促進、変化する環境での個人とビジネスの成長を支援することを約束します。"
-      },
-      "ValueSection": {
-        "Heading": "私たちの価値観",
-        "Description": "Enableroは共感、優れた技術、革新的なビジネス文化、そしてスマートな人々の完璧な組み合わせです。",
-        "AllValues": [
-          {
-            "title": "エンパワーメント",
-            "description": "技術ソリューションを通じて、個人やビジネスが潜在能力を引き出し、目標を達成する支援。",
-            "icon": "AccessibilityNewIcon"
-          },
-          {
-            "title": "機動性",
-            "description": "急速に変化するテクノロジーランドスケープでの変化と課題に迅速に対応するための柔軟性と適応力の受け入れ。",
-            "icon": "DirectionsRunIcon"
-          },
-          {
-            "title": "責任",
-            "description": "私たちの行動、約束、成果に対する責任を取り、約束の履行を負います。",
-            "icon": "VerifiedUserIcon"
-          },
-          {
-            "title": "大胆さ",
-            "description": "大胆なアイデアを受け入れ、計算されたリスクを取り、革新の境界を押し広げて、変革的なソリューションを創造します。",
-            "icon": "WhatshotIcon"
-          },
-          {
-            "title": "学び",
-            "description": "技術の進展の最前線に位置し、最先端のソリューションを提供するための継続的な学びのマインドセットを育成します。",
-            "icon": "SchoolIcon"
-          },
-          {
-            "title": "共感",
-            "description": "お客様や同僚に対する共感と理解を示し、彼らのニーズや懸念が聞かれ、対処されるようにします。",
-            "icon": "FavoriteIcon"
+      "MAIN_CONTENT": {
+        "MAIN_HEADING": "私たちについて",
+        "SUB_HEADING": "情報技術ソリューションにおける2年以上の経験を持つ",
+        "DESCRIPTION": "強力な革新促進パートナーとして、私たちは企業が価値提供を最大化し、サプライチェーン、ヘルスケア、フィンテック、IoT、その他の分野のソフトウェアエンジニアリングサービスで持続可能性を確保するのを支援します。私たちは、高品質で安定し、スケーラブルで機能的なデジタル製品を設計・提供するだけでなく、才能ある開発者の貴重で幅広い知識も共有します。",
+        "SUBDESCRIPTION": "私たちはビジョンを強化することに情熱を持っています。テクノロジーがポジティブな変化と成長の強力なツールになり得ると信じています。無限の可能性を解き放つことで、私たちはお客様が複雑なIT環境をナビゲートし、障害を克服し、新しい機会を掴むのを支援します。",
+        "STATS_SECTION": {
+          "SUBMIT_BUTTON": "私たちについてもっと知る",
+          "HEADING": "これらの統計が何を示しているか見てみましょう",
+          "DESCRIPTION": "私たちは、テクノロジーがポジティブな変化と成長の強力なツールになり得ると信じています。",
+          "STATISTICS": {
+            "NUMBER_OF_ACTIVE_CLIENTS_HEADING": "35+",
+            "ACTIVE_CLIENTS_DESCRIPTION": "アクティブなプロジェクトを持つクライアント",
+            "PERCENTAGE_OF_CLIENTS_HEADING": "30%",
+            "PERCENTAGE_OF_CLIENTS_DESCRIPTION": "クライアントの30％がパートナーの紹介でEnableroに来ています。",
+            "NUMBER_OF_PARTNER_HEADING": "10+",
+            "NUMBER_OF_PARTNER_DESCRIPTION": "7年以上Enableroと協力しているパートナー",
+            "ANNUAL_GROWTH_HEADING": "74%",
+            "ANNUAL_GROWTH_DESCRIPTION": "年間会社成長率"
           }
-        ]
+        },
+        "MISSION_SECTION": {
+          "HEADING": "私たちの使命",
+          "SUB_HEADING": "一緒に皆がもっと成し遂げる",
+          "DESCRIPTION": "私たちの使命は、お客様が課題を克服し、新しい機会を開拓し、目標を達成できるようにするために、カスタマイズされたテクノロジーソリューションを提供することです。私たちは卓越したサービスを提供し、イノベーションを促進し、変化し続ける環境で個人や企業が成功するための支援を行うことにコミットしています。"
+        },
+        "VALUE_SECTION": {
+          "VALUE_HEADING": "私たちの価値観",
+          "VALUE_DESCRIPTION": "Enableroは、共感、優れたテクノロジー、革新的なビジネス文化、スマートな人々の完璧な組み合わせです。",
+          "VALUES": {
+            "EMPOWERMENT_TITLE": "エンパワーメント",
+            "EMPOWERMENT_DESCRIPTION": "テクノロジーソリューションを通じて個人や企業が潜在能力を引き出し、目標を達成するために力を与えること。",
+            "NIMBLENESS_TITLE": "機動性",
+            "NIMBLENESS_DESCRIPTION": "迅速に変化や挑戦に対応するための機動性と適応性を受け入れること。",
+            "ACCOUNTABILITY_TITLE": "責任",
+            "ACCOUNTABILITY_DESCRIPTION": "私たちの行動、約束、成果に対して責任を持ち、約束を守ること。",
+            "BOLDNESS_TITLE": "大胆さ",
+            "BOLDNESS_DESCRIPTION": "大胆なアイデアを受け入れ、計算されたリスクを取り、革新の限界を押し広げて変革的なソリューションを作り出すこと。",
+            "LEARNING_TITLE": "学習",
+            "LEARNING_DESCRIPTION": "技術の進歩の最前線に立ち、最先端のソリューションを提供するために継続的な学習のマインドセットを育むこと。",
+            "EMPATHY_TITLE": "共感",
+            "EMPATHY_DESCRIPTION": "クライアントに対して共感と理解を示し、彼らのニーズや懸念を聞いて対処すること。",
+            "RELIABILITY_TITLE": "信頼性",
+            "RELIABILITY_DESCRIPTION": "私たちのテクノロジーソリューションとサービスの一貫した、信頼できる、信頼性のある提供を通じて信頼を築くこと。",
+            "OPENNESS_TITLE": "開放性",
+            "OPENNESS_DESCRIPTION": "開放性、透明性、協力的な精神を促進し、アイデアやフィードバックが評価される環境を作り出すこと。"
+          }
+        },
+        "VISSION_SECTION": {
+          "VISSION_HEADING": "私たちのビジョン",
+          "VISSION_DESCRIPTION": "革新的なソリューションを通じて無限の可能性を解き放ち、ビジョンを強化すること。"
+        }
       }
-    }
-  },
+    },
 
   "PORTFOLIO_PAGE": {
     "HERO_SECTION": {
@@ -251,18 +246,18 @@
       "PROJECTS": {
         "FILTER_BUTTONS": {
           "TAG_ALL": "すべて",
-          "TAG_ANDROID": "アンドロイド",
-          "TAG_AI": "人工知能",
-          "TAG_WEB": "ウェブ",
-          "TAG_IOS": "アイオーエス"
+          "TAG_ANDROID": "Android",
+          "TAG_AI": "AI",
+          "TAG_WEB": "Web",
+          "TAG_IOS": "iOS"
         },
         "PROJECT_INFORMATION": {
           "STUDENT_COUNSELLING_PORTAL_TITLE": "学生カウンセリングポータル",
           "TAG_ALL": "すべて",
-          "TAG_ANDROID": "アンドロイド",
-          "TAG_AI": "人工知能",
-          "TAG_WEB": "ウェブ",
-          "TAG_IOS": "アイオーエス",
+          "TAG_ANDROID": "Android",
+          "TAG_AI": "AI",
+          "TAG_WEB": "Web",
+          "TAG_IOS": "iOS",
           "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "このポータルは、学生が教育とキャリアのガイダンスを受けるのに役立ちます。",
           "TEACHER_COUNSELLING_PORTAL_TITLE": "教師カウンセリングポータル",
           "TEACHER_COUNSELLING_PORTAL_DESCRIPTION": "このポータルは、教師が教育と管理の役割をサポートします。",
@@ -274,13 +269,13 @@
   },
 
   "FOOTER_CALL_TO_ACTION": {
-    "CALL_TO_ACTION_TITLE": "イネーベロ でポテンシャルを開放しましょう！",
+    "CALL_TO_ACTION_TITLE": "Enableroでポテンシャルを開放しましょう！",
     "CALL_TO_ACTION_SUBTITLE": "当社の専門ソリューションであなたのビジョンを現実に変えるために、今日すぐお問い合わせください！",
     "CALL_TO_ACTION_BUTTON_TEXT": "はじめる"
   },
 
   "FOOTER": {
-    "ENABLERO_TEXT": "エネーブロ",
+    "ENABLERO_TEXT": "エナブレロ",
     "COPYRIGHT_TEXT": "エナブレロ　全著作権所有"
   }
 }

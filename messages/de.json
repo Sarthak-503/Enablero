@@ -9,20 +9,26 @@
     "SITEMAP": "Seitenverzeichnis"
   },
 
+  "COUNTING": {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12"
+  },
+
   "COMMON_COMPONENTS": {
     "HERO_SECTION_BUTTON_TEXT": "Loslegen",
     "HOME_SECTION_LEARN_MORE_BUTTON": "Mehr erfahren",
     "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "Haben Sie eine Idee?",
     "NAVBAR_ENABLERO_TEXT": "ENABLERO"
-  },
-
-  "LANGUAGE_SELECTORS": {
-    "ENGLISH": "Englisch",
-    "HINDI": "Hindi",
-    "JAPANESE": "Japanisch",
-    "GERMAN": "Deutsch",
-    "RUSSIAN": "Russisch",
-    "ARABIC": "Arabisch"
   },
 
   "HOME_PAGE": {
@@ -171,77 +177,66 @@
       }
     }
   },
-
-  "AboutPage": {
-    "HeroSection": {
-      "SectionHead": "WO INNOVATION AUF LEIDENSCHAFT TRIFFT",
-      "SectionPara": "Von der Vision zur Realität: Enableros Geschichte, Kunden mit innovativen Lösungen zu stärken und sich der Exzellenz zu verpflichten"
-    },
-    "MainContent": {
-      "MainHeading": "WER WIR SIND",
-      "SubHeading": "Als starker Partner zur Beschleunigung Ihrer Innovation helfen wir Unternehmen, die Wertbereitstellung zu maximieren und die Nachhaltigkeit mit Software-Engineering-Dienstleistungen für Supply Chain, Gesundheitswesen, FinTech, IoT und andere Bereiche zu gewährleisten. Wir entwerfen und liefern nicht nur hochwertige, stabile, skalierbare und funktionale digitale Produkte, sondern teilen auch das wertvolle und umfangreiche Wissen unserer talentierten Entwickler.",
-      "GridSection": {
-        "0": {
-          "Heading": "35+",
-          "Description": "Kunden mit aktiven Projekten"
-        },
-        "1": {
-          "Heading": "30%",
-          "Description": "der Kunden kommen über eine Partnerempfehlung zu Enablero."
-        },
-        "2": {
-          "Heading": "10+",
-          "Description": "Partner, die seit über 7 Jahren mit Enablero zusammenarbeiten"
-        },
-        "3": {
-          "Heading": "74%",
-          "Description": "jährliches Unternehmenswachstum"
-        }
+    "ABOUT_US_PAGE": {
+      "HERO_SECTION": {
+        "HERO_SECTION_TITLE": "Wo Innovation auf Leidenschaft trifft",
+        "HERO_SECTION_SUBTITLE": "Von der Vision zur Realität: Enableros Geschichte, Kunden mit innovativen Lösungen und Engagement für Exzellenz zu unterstützen",
+        "HERO_SECTION_BUTTON_TEXT": "Lass uns verbinden"
       },
-      "MissionSection": {
-        "Heading": "UNSERE MISSION",
-        "SubHeading": "Zusammen erreicht jeder mehr",
-        "Description": "Unsere Mission ist es, maßgeschneiderte Technologielösungen zu liefern, die es unseren Kunden ermöglichen, Herausforderungen zu bewältigen, neue Chancen zu erschließen und ihre Ziele zu erreichen. Wir sind bestrebt, außergewöhnlichen Service zu bieten, Innovationen zu fördern und Einzelpersonen und Unternehmen zu befähigen, in einer sich ständig verändernden Landschaft erfolgreich zu sein."
-      },
-      "ValueSection": {
-        "Heading": "UNSERE WERTE",
-        "Description": "Enablero ist eine perfekte Kombination aus Empathie, großer Technologie, einer innovativen Unternehmenskultur und klugen Menschen.",
-        "AllValues": [
-          {
-            "title": "Befähigung",
-            "description": "Ermächtigung von Einzelpersonen und Unternehmen, ihr Potenzial freizusetzen und ihre Ziele durch Technologielösungen zu erreichen.",
-            "icon": "AccessibilityNewIcon"
-          },
-          {
-            "title": "Wendigkeit",
-            "description": "Annehmen von Agilität und Anpassungsfähigkeit, um schnell auf Veränderungen und Herausforderungen in der schnelllebigen Tech-Landschaft zu reagieren.",
-            "icon": "DirectionsRunIcon"
-          },
-          {
-            "title": "Verantwortlichkeit",
-            "description": "Übernahme unserer Handlungen, Verpflichtungen und Ergebnisse und Verantwortung für die Einhaltung unserer Versprechen.",
-            "icon": "VerifiedUserIcon"
-          },
-          {
-            "title": "Kühnheit",
-            "description": "Wir begrüßen kühne Ideen, gehen berechnete Risiken ein und erweitern die Grenzen der Innovation, um transformative Lösungen zu schaffen.",
-            "icon": "WhatshotIcon"
-          },
-          {
-            "title": "Lernen",
-            "description": "Förderung einer kontinuierlichen Lernmentalität, um an der Spitze der technologischen Entwicklungen zu bleiben und cutting-edge Lösungen zu liefern.",
-            "icon": "SchoolIcon"
-          },
-          {
-            "title": "Empathie",
-            "description": "Demonstration von Empathie und Verständnis gegenüber Kunden und Kollegen, Gewährleistung, dass ihre Bedürfnisse und Anliegen gehört und adressiert werden.",
-            "icon": "FavoriteIcon"
+      "MAIN_CONTENT": {
+        "MAIN_HEADING": "WER WIR SIND",
+        "SUB_HEADING": "Mit über 2 Jahren Erfahrung in IT-Lösungen",
+        "DESCRIPTION": "Als starker Partner zur Beschleunigung Ihrer Innovation helfen wir Unternehmen, den Wert ihrer Leistungen zu maximieren und Nachhaltigkeit durch Software-Engineering-Dienstleistungen für Lieferketten, Gesundheitswesen, FinTech, IoT und andere Bereiche zu gewährleisten. Wir entwerfen und liefern nicht nur hochwertige, stabile, skalierbare und funktionale digitale Produkte, sondern teilen auch das wertvolle und umfangreiche Wissen unserer talentierten Entwickler.",
+        "SUBDESCRIPTION": "Wir sind leidenschaftlich daran interessiert, Visionen zu verwirklichen. Wir glauben fest daran, dass Technologie ein mächtiges Werkzeug für positive Veränderungen und Wachstum sein kann. Indem wir das grenzenlose Potenzial der Möglichkeiten erschließen, helfen wir unseren Kunden, sich im komplexen IT-Landschaft zurechtzufinden, Hindernisse zu überwinden und neue Chancen zu nutzen.",
+        "STATS_SECTION": {
+          "SUBMIT_BUTTON": "Erfahren Sie mehr über uns",
+          "HEADING": "Sehen wir uns an, was diese Statistiken sagen",
+          "DESCRIPTION": "Wir sind davon überzeugt, dass Technologie ein mächtiges Werkzeug für positive Veränderungen und Wachstum sein kann.",
+          "STATISTICS": {
+            "NUMBER_OF_ACTIVE_CLIENTS_HEADING": "35+",
+            "ACTIVE_CLIENTS_DESCRIPTION": "Kunden mit aktiven Projekten",
+            "PERCENTAGE_OF_CLIENTS_HEADING": "30%",
+            "PERCENTAGE_OF_CLIENTS_DESCRIPTION": "der Kunden kommen über eine Partnerempfehlung zu Enablero.",
+            "NUMBER_OF_PARTNER_HEADING": "10+",
+            "NUMBER_OF_PARTNER_DESCRIPTION": "Partner, die seit mehr als 7 Jahren mit Enablero zusammenarbeiten",
+            "ANNUAL_GROWTH_HEADING": "74%",
+            "ANNUAL_GROWTH_DESCRIPTION": "jährliches Unternehmenswachstum"
           }
-        ]
+        },
+        "MISSION_SECTION": {
+          "HEADING": "UNSERE MISSION",
+          "SUB_HEADING": "Gemeinsam erreicht jeder mehr",
+          "DESCRIPTION": "Unsere Mission ist es, maßgeschneiderte Technologielösungen bereitzustellen, die es unseren Kunden ermöglichen, Herausforderungen zu meistern, neue Chancen zu nutzen und ihre Ziele zu erreichen. Wir sind bestrebt, außergewöhnlichen Service zu bieten, Innovationen zu fördern und Einzelpersonen und Unternehmen in einem sich ständig verändernden Umfeld zum Erfolg zu verhelfen."
+        },
+        "VALUE_SECTION": {
+          "VALUE_HEADING": "UNSERE WERTE",
+          "VALUE_DESCRIPTION": "Enablero ist eine perfekte Kombination aus Empathie, großartiger Technologie, innovativer Unternehmenskultur und klugen Köpfen.",
+          "VALUES": {
+            "EMPOWERMENT_TITLE": "Ermächtigung",
+            "EMPOWERMENT_DESCRIPTION": "Menschen und Unternehmen zu befähigen, ihr Potenzial auszuschöpfen und ihre Ziele durch Technologielösungen zu erreichen.",
+            "NIMBLENESS_TITLE": "Beweglichkeit",
+            "NIMBLENESS_DESCRIPTION": "Agilität und Anpassungsfähigkeit zu übernehmen, um schnell auf Veränderungen und Herausforderungen im schnelllebigen Technologiebereich zu reagieren.",
+            "ACCOUNTABILITY_TITLE": "Verantwortung",
+            "ACCOUNTABILITY_DESCRIPTION": "Verantwortung für unser Handeln, unsere Verpflichtungen und Ergebnisse zu übernehmen und für die Einhaltung unserer Versprechen verantwortlich zu sein.",
+            "BOLDNESS_TITLE": "Mut",
+            "BOLDNESS_DESCRIPTION": "Wir akzeptieren mutige Ideen, gehen kalkulierte Risiken ein und erweitern die Grenzen der Innovation, um transformative Lösungen zu schaffen.",
+            "LEARNING_TITLE": "Lernen",
+            "LEARNING_DESCRIPTION": "Eine kontinuierliche Lernmentalität zu pflegen, um an der Spitze des technologischen Fortschritts zu bleiben und fortschrittliche Lösungen zu liefern.",
+            "EMPATHY_TITLE": "Empathie",
+            "EMPATHY_DESCRIPTION": "Empathie und Verständnis gegenüber Kunden zu zeigen, sicherzustellen, dass ihre Bedürfnisse und Anliegen gehört und berücksichtigt werden.",
+            "RELIABILITY_TITLE": "Zuverlässigkeit",
+            "RELIABILITY_DESCRIPTION": "Vertrauen durch konsistente, zuverlässige und vertrauenswürdige Bereitstellung unserer Technologielösungen und -dienstleistungen aufzubauen.",
+            "OPENNESS_TITLE": "Offenheit",
+            "OPENNESS_DESCRIPTION": "Offenheit, Transparenz und einen kooperativen Geist zu fördern und eine Umgebung zu schaffen, in der Ideen und Feedback geschätzt werden."
+          }
+        },
+        "VISSION_SECTION": {
+          "VISSION_HEADING": "UNSERE VISION",
+          "VISSION_DESCRIPTION": "Visionen verwirklichen, indem das grenzenlose Potenzial der Möglichkeiten durch innovative Lösungen erschlossen wird."
+        }
       }
-    }
-  },
-
+    },
+    
   "PORTFOLIO_PAGE": {
     "HERO_SECTION": {
       "HERO_SECTION_TITLE": "WO KREATIVITÄT AUF ERGEBNISSE TRIFFT",
@@ -252,16 +247,16 @@
         "FILTER_BUTTONS": {
           "TAG_ALL": "ALLE",
           "TAG_ANDROID": "ANDROID",
-          "TAG_AI": "KI",
-          "TAG_WEB": "NETZ",
+          "TAG_AI": "AI",
+          "TAG_WEB": "WEB",
           "TAG_IOS": "IOS"
         },
         "PROJECT_INFORMATION": {
           "STUDENT_COUNSELLING_PORTAL_TITLE": "Studentenberatungsportal",
           "TAG_ALL": "ALLE",
           "TAG_ANDROID": "ANDROID",
-          "TAG_AI": "KI",
-          "TAG_WEB": "NETZ",
+          "TAG_AI": "AI",
+          "TAG_WEB": "WEB",
           "TAG_IOS": "IOS",
           "STUDENT_COUNSELLING_PORTAL_DESCRIPTION": "Dieses Portal unterstützt Schüler bei der Bildungs- und Karriereberatung.",
           "TEACHER_COUNSELLING_PORTAL_TITLE": "Lehrerberatungsportal",

@@ -9,15 +9,27 @@ import WhatshotIcon from '@mui/icons-material/Whatshot';
 import SecurityIcon from '@mui/icons-material/Security';
 import PublicIcon from '@mui/icons-material/Public';
 import VisibilityIcon from '@mui/icons-material/Visibility';
+import WhoWeAreSection from '@/components/about/who-we-are';
+
 // TODO Write the variables name in camelCase
-import whoweare from '@/animations/whoweare.json';
-import mission from '@/animations/mission.json';
+// import WhoWeAre from '@/animations/WhoWeAre.json'
+import Mission from '@/animations/Mission.json';
+import Vission from '@/animations/Vission.json';
 import Lottie from 'lottie-react';
-import { Box, Container, Grid, Typography , useMediaQuery,Card, useTheme} from '@mui/material';
+import {
+  Box,
+  Container,
+  Grid,
+  Typography,
+  useMediaQuery,
+  Card,
+  useTheme,
+} from '@mui/material';
 import { useTranslations } from 'next-intl';
 import React from 'react';
 import { aboutContent } from '@/services/about-content';
-
+import Statistics from '@/components/about/statistics';
+import Image from 'next/image';
 // TODO Fixed the hyderation error.
 
 // TODO Add it on seprate file. Take idea from the case studies buttons.
@@ -69,57 +81,76 @@ const About = () => {
         )}
       />
       {/*  Main Content */}
-      <Box sx={{margin:'1rem'}}>
-        
-        {/* Who we are */}
-        <Box minHeight='100vh'>
-      <Box
-        sx={{
-          textAlign: 'center',
-          padding: isXs || isSm ? '1rem' : '2rem',
-        }}
-      >
-        <Typography variant={isXs || isSm ? 'h4' : 'h2'}>
-          {t(`MAIN_CONTENT.${aboutContent.mainSection.mainHeading}`)}
-        </Typography>
-        <Typography variant='body2'>
-          {t(`MAIN_CONTENT.${aboutContent.mainSection.subHeading}`)}
-        </Typography>
-      </Box>
-
-      <Grid
-        container
-        // spacing={isXs || isSm ? 2 : 4}
-        sx={{ mt: 2 }}
-      >
-        <Grid item xs={12} md={6}>
-          <Lottie
-            loop
-            animationData={whoweare}
-            style={{
-              width: isXs ? '26rem' :  isSm ? '34rem' : isMd ? '50rem' : isLg ? '40rem' : '45rem',
-              height: isXs? '20rem' : isSm ? '24rem' : isMd ? '28rem' : isLg ? '38rem' : '28rem',
+      <Box sx={{ margin: '1rem' }}>
+        {/* Who we are Section */}
+         {/* <Box minHeight='100vh'>
+          <Box
+            sx={{
+              textAlign: 'center',
+              padding: isXs || isSm ? '1rem' : '2rem',
             }}
-          />
-        </Grid>
-        <Grid item xs={12} md={6}>
-          <Box padding={'1rem'} margin='0.8rem'>
-            <Typography variant='body2' paragraph>
-              {t(`MAIN_CONTENT.${aboutContent.mainSection.description}`)}
+          >
+            <Typography variant={isXs || isSm ? 'h4' : 'h2'}>
+              {t(`MAIN_CONTENT.${aboutContent.mainSection.mainHeading}`)}
             </Typography>
-            <Typography variant='body2' paragraph>
-              {t(`MAIN_CONTENT.${aboutContent.mainSection.subdescription}`)}
+            <Typography variant='body2'>
+              {t(`MAIN_CONTENT.${aboutContent.mainSection.subHeading}`)}
             </Typography>
           </Box>
-        </Grid>
-      </Grid>
-    </Box>
 
-
+          <Grid
+            container
+            sx={{ mt: 2 }}
+          >
+            <Grid
+              item
+              xs={12}
+              md={6}
+            >
+              <Lottie
+                loop
+                animationData={WhoWeAre}
+                style={{
+                  width: isXs? '26rem'  : isSm? '34rem' : isMd ? '50rem' : isLg ? '40rem' : '45rem',
+                  height: isXs ? '20rem': isSm ? '24rem' : isMd  ? '28rem'  : isLg  ? '38rem'  : '28rem',
+                }}
+              />
+            </Grid>
+            <Grid
+              item
+              xs={12}
+              md={6}
+            >
+              <Box
+                padding={'1rem'}
+                margin='0.8rem'
+              >
+                <Typography
+                  variant='body2'
+                  paragraph
+                >
+                  {t(`MAIN_CONTENT.${aboutContent.mainSection.description}`)}
+                </Typography>
+                <Typography
+                  variant='body2'
+                  paragraph
+                >
+                  {t(`MAIN_CONTENT.${aboutContent.mainSection.subdescription}`)}
+                </Typography>
+              </Box>
+            </Grid>
+          </Grid>
+        </Box>  */}
+        <WhoWeAreSection  
+        mainHeading={aboutContent.mainSection.mainHeading}
+        subHeading={aboutContent.mainSection.subHeading}
+        description={aboutContent.mainSection.description}
+        subDescription={aboutContent.mainSection.subDescription}
+        />
 
         {/* Statistics Section */}
-         <Box> 
-               <Box sx={{ position: 'relative', mt: '6rem' }}>
+        {/* <Box>
+          <Box sx={{ position: 'relative', mt: '6rem' }}>
             <Box
               sx={{
                 position: 'absolute',
@@ -128,7 +159,6 @@ const About = () => {
                 zIndex: 1,
               }}
             >
-              {/* TODO Add it in seprate file */}
               <svg
                 xmlns='http://www.w3.org/2000/svg'
                 viewBox='0 0 1440 320'
@@ -238,87 +268,270 @@ const About = () => {
               </Grid>
             </Container>
           </Box>
-         </Box>
+        </Box> */}
+        <Statistics  />
 
         {/* Mission Section */}
-         <Box> 
-         <Container
-  sx={{
-    mt: { xs: '3rem', sm: '4rem', md: '5rem', lg: '6rem' }, // Adjust top margin based on screen size
-  }}
->
-  <Typography
-    variant='h2'
-    align='center'
-    sx={{
-      fontSize: { xs: '1.5rem', sm: '2rem', md: '2.5rem', lg: '3rem' } // Adjust font size for h2 based on screen size
-    }}
-  >
-    {t(
-      `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.heading}`
-    )}
-  </Typography>
-  <Typography
-    variant='body2'
-    align='center'
-    sx={{
-      fontSize: { xs: '0.875rem', sm: '1rem', md: '1.125rem', lg: '1.25rem' } // Adjust font size for body2 based on screen size
-    }}
-  >
-    {t(
-      `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.subHeading}`
-    )}
-  </Typography>
-  {/* TODO Add a subtitle here in the mission */}
-  <Grid
-    container
-    spacing={3}
-    sx={{ mt: 2 }}
-    alignItems='center'
-  >
-    <Grid
-      item
-      xs={12}
-      md={6}
-    >
-      <Typography
-        variant='body1'
-        textAlign={{ xs: 'center', sm:'center', md: 'start',lg:'start' }} // Center text on smaller screens, align left on medium and larger screens
-        // sx={{
-        //   fontSize: { xs: '0.875rem', sm: '1rem', md: '1.125rem', lg: '1.25rem' } // Adjust font size for body1 based on screen size
-        // }}
-      >
-        {t(
-          `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.description}`
-        )}
-      </Typography>
-    </Grid>
-    <Grid
-      item
-      xs={12}
-      md={6}
-      sx={{
-        display: 'flex',
-        justifyContent: 'center' // Center Lottie animation on smaller screens
-      }}
-    >
-      <Lottie
-        animationData={mission}
-        style={{ width: '100%', height: '100%' }}
-      />
-    </Grid>
-  </Grid>
-</Container>
-         </Box>
+        <Box>
+          <Container
+            sx={{
+              mt: { xs: '3rem', sm: '4rem', md: '5rem', lg: '6rem' }
+            }}
+          >
+            <Typography
+              variant='h2'
+              align='center'
+              sx={{
+                fontSize: {
+                  xs: '1.5rem',
+                  sm: '2rem',
+                  md: '2.5rem',
+                  lg: '3rem',
+                }
+              }}
+            >
+              {t(
+                `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.heading}`
+              )}
+            </Typography>
+            <Typography
+              variant='body2'
+              align='center'
+              sx={{
+                fontSize: {
+                  xs: '0.875rem',
+                  sm: '1rem',
+                  md: '1.125rem',
+                  lg: '1.25rem',
+                }, // Adjust font size for body2 based on screen size
+              }}
+            >
+              {t(
+                `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.subHeading}`
+              )}
+            </Typography>
+            {/* TODO Add a subtitle here in the mission */}
+            <Grid
+              container
+              spacing={3}
+              sx={{ mt: 2 }}
+              alignItems='center'
+            >
+              <Grid
+                item
+                xs={12}
+                md={6}
+              >
+                <Typography
+                  variant='body1'
+                  textAlign={{
+                    xs: 'center',
+                    sm: 'center',
+                    md: 'start',
+                    lg: 'start',
+                  }} // Center text on smaller screens, align left on medium and larger screens
+                  // sx={{
+                  //   fontSize: { xs: '0.875rem', sm: '1rem', md: '1.125rem', lg: '1.25rem' } // Adjust font size for body1 based on screen size
+                  // }}
+                >
+                  {t(
+                    `MAIN_CONTENT.MISSION_SECTION.${aboutContent.mainSection.missionSection.description}`
+                  )}
+                </Typography>
+              </Grid>
+              <Grid
+                item
+                xs={12}
+                md={6}
+                sx={{
+                  display: 'flex',
+                  justifyContent: 'center', // Center Lottie animation on smaller screens
+                }}
+              >
+                <Lottie
+                  animationData={Mission}
+                  style={{ width: '100%', height: '100%' }}
+                />
+              </Grid>
+            </Grid>
+          </Container>
+        </Box>
 
         {/* Vission Section */}
-         <Box>
-            
-         </Box>
+        <Box>
+          <Container sx={{ mt: '6rem' }}>
+            <Grid
+              container
+              spacing={2}
+              alignItems='center'
+            >
+              <Grid
+                item
+                xs={12}
+                md={6}
+              >
+                <Box
+                  display='flex'
+                  justifyContent='center'
+                >
+                  {/*TODO Use Next image */}
+                    <Lottie
+                      animationData={Vission}
+                      style={{
+                        width: isXs? '26rem'  : isSm? '34rem' : isMd ? '50rem' : isLg ? '40rem' : '45rem',
+                        height: isXs ? '20rem': isSm ? '24rem' : isMd  ? '28rem'  : isLg  ? '38rem'  : '28rem',
+                      }}
+                    />
+
+                </Box>
+              </Grid>
+
+              <Grid
+                item
+                xs={12}
+                md={6}
+              >
+                <Box sx={{ textAlign: 'left' }}>
+                  <Typography
+                    variant='h2'
+                    fontWeight='bold'
+                  >
+                    <Box
+                      sx={{
+                        display: 'inline-block',
+                        verticalAlign: 'middle',
+                        marginRight: 2,
+                      }}
+                    >
+                      <VisibilityIcon fontSize='large' />
+                    </Box>
+
+                    {t(
+                      `MAIN_CONTENT.VISSION_SECTION.${aboutContent.mainSection.vissionSection.heading}`
+                    )}
+                  </Typography>
+                  <Box
+                    sx={{
+                      borderBottom: '2px solid black',
+                      width: '50px',
+                      marginTop: 1,
+                      textAlign: 'center',
+                    }}
+                  />
+                  <Typography
+                    variant='body1'
+                    component='p'
+                    sx={{ marginTop: 2 }}
+                  >
+                    {t(
+                      `MAIN_CONTENT.VISSION_SECTION.${aboutContent.mainSection.vissionSection.description}`
+                    )}
+                  </Typography>
+                </Box>
+              </Grid>
+            </Grid>
+          </Container>
+        </Box>
+
         {/* Value Section */}
-         <Box>
-          
-         </Box>
+        <Box>
+             <Container
+            sx={{
+              mt: 4,
+              mb: 4,
+              p: 2,
+              alignItems: 'center',
+            }}
+          >
+              <Typography variant='h2' align='center'>
+                {t(
+                  `MAIN_CONTENT.VALUE_SECTION.${aboutContent.mainSection.valueSection.heading}`
+                )}
+              </Typography>
+              <Typography variant='body1'  align='center'>
+                {t(
+                  `MAIN_CONTENT.VALUE_SECTION.${aboutContent.mainSection.valueSection.description}`
+                )}
+              </Typography>
+
+            <Box
+              sx={{mt:'2rem'}}             
+            >
+              {/* TODO Remove the hover gray color and make it like the testimonials card  */}
+              {values.map((value, index) => (
+                <Grid
+                  item
+                  xs={12}
+                  key={index}
+                  sx={{
+                    borderRadius: '0.5rem',
+                    display: 'flex',
+                    alignItems: 'center',
+                    textAlign: 'center',
+                    width: '100%',
+                    position: 'relative',
+                    m: '1rem',
+                    '&:hover': {
+                      borderColor: 'primary.dark',
+                      boxShadow: '0px 5px 22px rgba(0, 0, 0, 0.04), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.03)',
+                      curser:'pointer'
+                    },
+                  }}
+                >
+                  {/* <Card> */}
+                  {/* Box for Icon and Letter  */}
+                  <Box
+                    sx={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      bgcolor: 'primary.light',
+                      width: '8rem',
+                      flexDirection: 'row',
+                      justifyContent: 'space-around',
+                      p: 2,
+                      maxHeight: '2',
+                      height: '100%',
+                      borderRadius: '0px 15px 12px 0px',
+                   
+                    }}
+                  >
+                    <Typography variant='body2'>{value.icon}</Typography>
+                    <Typography
+                      variant='h2'
+                      sx={{
+                        fontWeight: 'bold',
+                        marginRight: '1rem',
+                      }}
+                    >
+                      {t(
+                        `MAIN_CONTENT.VALUE_SECTION.VALUES.${value.title}`
+                      ).charAt(0)}
+                    </Typography>
+                  </Box>
+                  {/* Box For Title and Description  */}
+                  <Box sx={{ flex: 1, alignItems: 'center' }}>
+                    <Typography
+                      variant='h6'
+                      sx={{ fontWeight: 'bold', marginRight: '2' }}
+                    >
+                      {t(`MAIN_CONTENT.VALUE_SECTION.VALUES.${value.title}`)}
+                    </Typography>
+                    <Typography
+                      sx={{
+                        variant: 'body1',
+                      }}
+                    >
+                      {t(
+                        `MAIN_CONTENT.VALUE_SECTION.VALUES.${value.description}`
+                      )}
+                    </Typography>
+                  </Box>
+                  {/* </Card> */}
+                </Grid>
+              ))}
+            </Box>
+          </Container>
+        </Box>
       </Box>
     </>
   );

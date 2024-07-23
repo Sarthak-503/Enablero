@@ -9,20 +9,26 @@
     "SITEMAP": "Sitemap"
   },
 
+  "COUNTING": {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12"
+  },
+
   "COMMON_COMPONENTS": {
     "HERO_SECTION_BUTTON_TEXT": "Lets Talk",
     "HOME_SECTION_LEARN_MORE_BUTTON": "Learn More",
     "HERO_SECTION_CALL_TO_ACTION_SUBTEXT": "Have an idea ?",
     "NAVBAR_ENABLERO_TEXT": "ENABLERO"
-  },
-
-  "LANGUAGE_SELECTORS": {
-    "ENGLISH": "English",
-    "HINDI": "Hindi",
-    "JAPANESE": "Japanese",
-    "GERMAN": "German",
-    "RUSSIAN": "Russian",
-    "ARABIC": "Arabic"
   },
 
   "HOME_PAGE": {

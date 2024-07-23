@@ -67,7 +67,6 @@ const About = () => {
       icon: iconMapping[value.icon],
     })
   );
-  const stats = aboutContent.mainSection.statsSection.statistics;
 
   return (
     <>
@@ -269,7 +268,12 @@ const About = () => {
             </Container>
           </Box>
         </Box> */}
-        <Statistics  />
+        <Statistics 
+        learnMoreText = {aboutContent.mainSection.statsSection.learnMoreText}
+        heading = {aboutContent.mainSection.statsSection.heading}
+        description = {aboutContent.mainSection.statsSection.description}
+        statsdetails = {aboutContent.mainSection.statsSection.statistics} 
+        />
 
         {/* Mission Section */}
         <Box>

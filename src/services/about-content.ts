@@ -10,7 +10,7 @@ export const aboutContent = {
     description: 'DESCRIPTION',
     subDescription: 'SUBDESCRIPTION',
     statsSection: {
-      submitButton: 'SUBMIT_BUTTON',
+      learnMoreText: 'LEARN_MORE',
       heading: 'HEADING',
       description: 'DESCRIPTION',
       statistics: [

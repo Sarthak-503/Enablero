@@ -190,7 +190,7 @@
         "DESCRIPTION": "As a strong partner for accelerating your innovation, we help businesses maximize value delivery and ensure sustainability with software engineering services for supply chain, healthcare, FinTech, IoT, and other domains. We not only design and deliver high-quality, stable, scalable, and functional digital products but also share the valuable and wide-ranging knowledge of our talented developers.",
         "SUBDESCRIPTION": " we are passionate about empowering visions. We are driven by the belief that technology can be a powerful tool for positive change and growth. By unlocking the boundless potential of possibilities, we help our clients navigate the complex IT landscape, overcome obstacles, and seize new opportunities." ,
         "STATS_SECTION": {
-          "SUBMIT_BUTTON": "Learn More About Us",
+          "LEARN_MORE": "Learn More About Us",
           "HEADING":"Let's see what these Statistics Say",
           "DESCRIPTION": "We are driven by the belief that technology can be a powerful tool for positive change and growth.",
           "STATISTICS":{

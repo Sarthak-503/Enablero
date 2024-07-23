@@ -4,25 +4,28 @@ import {
     Container,
     Grid,
     Typography,
-    useMediaQuery,
     Card,
-    useTheme,
   } from '@mui/material';
   import Image from 'next/image';
+  import {StatisticsType} from '@/types';
   import { useTranslations } from 'next-intl';
   import { aboutContent } from '@/services/about-content';
   import svgImage from '../../../public/assets/svg/statistics.svg';
   type Statistics = {
-    mainHeading: string;
-    subHeading: string;
+    learnMoreText: string;
+    heading: string;
     description: string;
-    subDescription: string;
+    statsdetails:StatisticsType[];
   };
   
 
-const Statistics =  () => {
+const Statistics : React.FC<Statistics> = ({ 
+  learnMoreText,
+  heading,
+  description,
+  statsdetails
+})=> {
     const t = useTranslations('ABOUT_US_PAGE');
-  const stats = aboutContent.mainSection.statsSection.statistics;
   return (
     <Box>
     <Box sx={{ position: 'relative', mt: '6rem' }}>
@@ -49,8 +52,8 @@ const Statistics =  () => {
         alt='Statistics'
         // layout='fill'
         // objectFit='contain'
-        width={1800}
-        height={1000}
+        width={100}
+        height={100}
         // style={{
         //     width:'100%',
         //     height:'auto'
@@ -77,7 +80,7 @@ const Statistics =  () => {
               container
               spacing={4}
             >
-              {stats.map((stat, index) => (
+              {statsdetails.map((stat, index) => (
                 <Grid
                   item
                   xs={12}
@@ -134,7 +137,7 @@ const Statistics =  () => {
             >
               <Typography variant='body2'>
                 {t(
-                  `MAIN_CONTENT.STATS_SECTION.${aboutContent.mainSection.statsSection.submitButton}`
+                  `MAIN_CONTENT.STATS_SECTION.${learnMoreText}`
                 )}
               </Typography>
               <Typography
@@ -142,12 +145,12 @@ const Statistics =  () => {
                 gutterBottom
               >
                 {t(
-                  `MAIN_CONTENT.STATS_SECTION.${aboutContent.mainSection.statsSection.heading}`
+                  `MAIN_CONTENT.STATS_SECTION.${heading}`
                 )}
               </Typography>
               <Typography variant='body1'>
                 {t(
-                  `MAIN_CONTENT.STATS_SECTION.${aboutContent.mainSection.statsSection.description}`
+                  `MAIN_CONTENT.STATS_SECTION.${description}`
                 )}
               </Typography>
             </Box>

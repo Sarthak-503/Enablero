@@ -76,3 +76,9 @@ export type ServicesType = {
 export type CommonFormHelperTextProps = {
   error?: FieldError;
 };
+
+export type StatisticsType = {
+  heading:string;
+  description:string;
+
+};

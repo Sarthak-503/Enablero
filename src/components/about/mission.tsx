@@ -7,9 +7,9 @@ import {
 } from '@mui/material';
 import { useTranslations } from 'next-intl';
 import React from 'react';
-import { aboutContent } from '@/services/about-content'; 
 import Mission from '@/animations/Mission.json';
-
+import MissionImage from '../../assets/png/About-png/mission.jpg';
+import Image from 'next/image';
 type Mission = {
     heading:string;
     subHeading:string;
@@ -94,10 +94,16 @@ const MissionSection:React.FC<Mission> = ({
                   justifyContent: 'center',
                 }}
               >
-                <Lottie
+                {/* <Lottie
                   animationData={Mission}
                   style={{ width: '100%', height: '100%' }}
-                />
+                /> */}
+            <Image
+            src={MissionImage}
+            alt={'Vission Image'}
+            width={500}
+            height={400}
+          />
               </Grid>
             </Grid>
           </Container>

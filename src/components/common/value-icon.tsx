@@ -21,20 +21,17 @@ const ValueIcon = ({ value }:{value :string} )=> {
     case 'NIMBLENESS_ICON':
       return <DirectionsRunIcon />;
     case 'ACCOUNTABILITY_ICON':
-      return <FavoriteIcon />;
+      return  <VerifiedUserIcon />;
     case 'BOLDNESS_ICON':
-      return <SchoolIcon />;
+      return <WhatshotIcon  />;
     case 'LEARNING_ICON':
-      return <VerifiedUserIcon />;
+      return <SchoolIcon/>;
     case 'EMPATHY_ICON':
-      return <WhatshotIcon />;
-    case 'RELIABILITY_TITLE':
+      return <FavoriteIcon />;
+    case 'RELIABILITY_ICON':
       return <SecurityIcon />;
-    case 'OPENNESS_TITLE':
+    case 'OPENNESS_ICON':
       return <PublicIcon />;
-    case 'TAG_VISIBILITY':
-      return <VisibilityIcon />;
-    case 'TAG_DEFAULT':
     default:
       return <AccessibilityNewIcon />;
   }

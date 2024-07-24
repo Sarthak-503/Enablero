@@ -1,5 +1,4 @@
 import React from 'react'
-import Lottie from 'lottie-react';
 import {
   Box,
   Container,
@@ -14,7 +13,7 @@ interface RawValue {
 import ValueIcon from '@/components/common/value-icon';
 import { aboutContent } from '@/services/about-content';
 import { useTranslations } from 'next-intl';
-const Value = () => {
+const ValueSection = () => {
   const t = useTranslations('ABOUT_US_PAGE');
   const values = aboutContent.mainSection.valueSection.values;
   return (
@@ -39,7 +38,7 @@ const Value = () => {
       </Typography>
 
     <Box 
-      sx={{mt:'2rem'}}             
+      sx={{mt:'2rem'}}
     >
       {/* TODO Remove the hover gray color and make it like the testimonials card  */}
       {values.map((value, index) => (
@@ -79,7 +78,7 @@ const Value = () => {
            
             }}
           >
-            <Typography variant='body2'>
+            <Typography >
               {
               <ValueIcon value={value.label}/>
               }</Typography>
@@ -113,7 +112,6 @@ const Value = () => {
               )}
             </Typography>
           </Box>
-          {/* </Card> */}
         </Grid>
       ))}
     </Box>
@@ -121,4 +119,4 @@ const Value = () => {
   </Box>
   )
 }
-export default Value;
+export default ValueSection;
